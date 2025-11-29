@@ -1,0 +1,454 @@
+﻿start_date,start_time,start_temp,start_weather,end_date,end_time,end_temp,end_weather,location,species,number,sun_expos,plant_location,lawn_dist,bird_dist,bird_type,building_dist,road_dist,tree_dist,patch_diversity,patch_flower_diversity,patch_percent_native,mw_density,nearby_mw,total_num_mw_species,total_mw_stems,num_TUB_stems,num_SYR_stems,num_INC_stems,num_CUR_stems,percent_lawn,habitat,property_trees,mw_height_cm,mw_phenology,nearby_diversity,nearby_flower_diversity,nearby_flower_identity,nearby_tallest_identity,nearby_tallest_height_cm,honeydew,sooty_mold,cat_age,cat_length_mm,cat_treatment,cat_survival,cat_feeding_sites,control_cat_eaten,open_cat_body_present,num_myzo,num_nerii,myzo_leaf,nerii_leaf,num_other_aphid,identity_other_aphid,total_num_aphid
+6/24/25,11:40,88,sunny,6/25/25,10:50,83,sunny,ADB,SYR,1,full,edge,16,na,na,30,2,15,13,6,25,3,SYR,3,85,50,30,5,0,,,,120,pre-flowering,2,?,,Purple coneflower,125,n,n,11,10,control,y,0,na,,<50,0,1,0,0,na,<50
+6/24/25,11:40,88,sunny,6/25/25,10:50,83,sunny,ADB,SYR,1,full,edge,15,na,na,30,2,15,13,6,25,3,SYR,3,85,50,30,5,0,,,,120,pre-flowering,2,?,,Purple coneflower,125,n,n,11,10,open,y,0,na,,<50,0,0,0,0,na,<50
+6/24/25,11:44,88,sunny,6/25/25,10:51,83,sunny,ADB,SYR,2,partial,edge,11,na,na,25,8,10,13,6,25,6,SYR,3,85,50,30,5,0,,,,170,flowering,5,?,,Common milkweed,168,n,n,11,13,control,y,0,na,,50-200,0,8,0,0,na,50-200
+6/24/25,11:44,88,sunny,6/25/25,10:51,83,sunny,ADB,SYR,2,partial,edge,10,na,na,25,8,10,13,6,25,6,SYR,3,85,50,30,5,0,,,,170,flowering,5,?,,Common milkweed,168,n,n,11,14,open,n,0,na,,50-200,0,6,0,0,na,50-200
+7/1/25,9:01,72,raining,7/2/25,9:19,73,sunny,ADB,SYR,3,full,edge,8,na,na,20,7,10,13,6,25,4,SYR,3,85,50,30,5,0,,,,148,vegetative,3,2,,Common milkweed,150,n,n,13,9,control,y,0,na,,<50,0,3,0,0,na,<50
+7/1/25,9:01,72,raining,7/2/25,9:19,73,sunny,ADB,SYR,3,full,edge,7,na,na,20,7,10,13,6,25,4,SYR,3,85,50,30,5,0,,,,148,vegetative,3,2,,Common milkweed,150,n,n,13,6,open,n,0,na,,<50,0,3,0,0,na,<50
+7/1/25,9:06,72,raining,7/2/25,9:24,73,sunny,ADB,SYR,4,full,edge,11,na,na,25,4,15,13,6,25,4,SYR,3,85,50,30,5,0,,,,116,flowering,3,2,,purple coneflower,149,n,n,13,18,control,y,1,na,,<50,0,0,0,0,na,<50
+7/1/25,9:06,72,raining,7/2/25,9:24,73,sunny,ADB,SYR,4,full,edge,10,na,na,25,4,15,13,6,25,4,SYR,3,85,50,30,5,0,,,,116,flowering,3,2,,purple coneflower,149,n,n,13,16,open,n,0,na,,<50,0,0,0,0,na,<50
+7/15/25,10:25,70,cloudy,7/16/25,11:01,81,cloudy,ADB,SYR,1,full,edge,17,na,na,30,2,15,13,6,25,3,SYR,3,85,50,30,5,0,,,,121,fruiting,2,1,,Purple coneflower,139,n,n,10,6,control,n,0,"fully gone, caterpillar seemed sick (prolapse?) at setup",,5-10,0,0,0,0,na,<50
+7/15/25,10:25,70,cloudy,7/16/25,11:01,81,cloudy,ADB,SYR,1,full,edge,18,na,na,30,2,15,13,6,25,3,SYR,3,85,50,30,5,0,,,,121,fruiting,2,1,,Purple coneflower,139,n,n,10,5,open,n,0,na,,5-10,0,0,0,0,na,<50
+7/15/25,10:21,70,cloudy,7/16/25,10:59,81,cloudy,ADB,SYR,5,full ,edge,9,na,na,20,8,15,13,6,25,2,SYR,3,85,50,30,5,0,,,,95,vegetative,2,1,,Purple coneflower,135,n,n,10,9,control,y,1,na,,1,0,0,0,0,na,<50
+7/15/25,10:21,70,cloudy,7/16/25,10:59,81,cloudy,ADB,SYR,5,full ,edge,8,na,na,20,8,15,13,6,25,2,SYR,3,85,50,30,5,0,,,,95,vegetative,2,1,,Purple coneflower,135,n,n,10,6,open,y,0,na,,1,0,0,0,0,na,<50
+7/29/25,8:55,74,cloudy,7/30/25,12:30,86,sunny,ADB,SYR,2,partial,edge,13,na,na,25,8,10,13,6,25,6,SYR,3,85,50,30,5,0,,,,185,fruiting,8,1,,pic @ 8:50,179,n,n,8,8,control,n,0,n,,<50,0,0,0,0,na,<50
+7/29/25,8:55,74,cloudy,7/30/25,12:30,86,sunny,ADB,SYR,2,partial,edge,12,na,na,25,8,10,13,6,25,6,SYR,3,85,50,30,5,0,,,,185,fruiting,8,1,,pic @ 8:50,179,n,n,8,7,open,n,1,na,y,<50,0,0,0,0,na,<50
+7/29/25,9:02,74,cloudy,7/30/25,12:32,86,sunny,ADB,SYR,3,full,edge,10,na,na,20,7,10,13,6,25,4,SYR,3,85,50,30,5,0,,,,162,vegetative,4,1,,Grass,150,n,n,8,7,control,y,1,na,,0,0,0,0,0,na,0
+7/29/25,9:02,74,cloudy,7/30/25,12:32,86,sunny,ADB,SYR,3,full,edge,9,na,na,20,7,10,13,6,25,4,SYR,3,85,50,30,5,0,,,,162,vegetative,4,1,,Grass,150,n,n,8,9,open,n,0,na,,0,0,0,0,0,na,0
+8/12/25,8:13,71,sunny,8/13/25,9:24,76,raining,ADB,SYR,4,full,edge,13,na,na,25,4,15,13,6,25,4,SYR,3,85,50,30,5,0,,,,123,fruiting,3,1,purple coneflower,Purple coneflower,150,y,n,7,9,control,y,1,na,,0,200-500,0,20,0,na,200-500
+8/12/25,8:13,71,sunny,8/13/25,9:24,76,raining,ADB,SYR,4,full,edge,12,na,na,25,4,15,13,6,25,4,SYR,3,85,50,30,5,0,,,,123,fruiting,3,1,purple coneflower,Purple coneflower,150,y,n,7,7,open,y,2,na,,0,200-500,0,50,0,na,200-500
+8/12/25,8:19,71,sunny,8/13/25,9:22,76,raining,ADB,SYR,5,full ,edge,11,na,na,20,8,15,13,6,25,2,SYR,3,85,50,30,5,0,,,,96,vegetative,3,1,purple coneflower,Purple coneflower,136,n,n,7,11,control,y,1,na,,1,50-200,0,0,0,na,50-200
+8/12/25,8:19,71,sunny,8/13/25,9:22,76,raining,ADB,SYR,5,full ,edge,10,na,na,20,8,15,13,6,25,2,SYR,3,85,50,30,5,0,,,,96,vegetative,3,1,purple coneflower,Purple coneflower,136,n,n,7,12,open,y,0,na,,1,50-200,0,0,0,na,50-200
+6/24/25,9:28,68,sunny,6/25/25,10:02,75,sunny,AN,INC,1,shade,edge,0,30,feeder,3,55,20,12,6,50,1,INC,3,115,5,100,10,0,,,,78,pre-flowering,4,?,,Goldenrod,73,n,n,11,10,control,y,3,na,,0,0,0,0,0,na,0
+6/24/25,9:28,68,sunny,6/25/25,10:02,75,sunny,AN,INC,1,shade,edge,0,30,feeder,3,55,20,12,6,50,1,INC,3,115,5,100,10,0,,,,78,pre-flowering,4,?,,Goldenrod,73,n,n,11,11,open,n,1,na,,0,0,0,0,0,na,0
+6/24/25,9:34,68,sunny,6/25/25,10:03,75,sunny,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,63,vegetative,4,?,,Grass,79,n,n,11,10,control,y,1,na,,0,0,0,0,0,na,0
+6/24/25,9:34,68,sunny,6/25/25,10:03,75,sunny,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,63,vegetative,4,?,,Grass,79,n,n,11,10,open,y,0,na,,0,0,0,0,0,na,0
+6/24/25,9:08,68,sunny,6/25/25,9:54,75,sunny,AN,SYR,1,full,edge,1,15,feeder,45,40,15,10,4,50,3,SYR,3,115,5,100,10,0,,,,115,flowering,3,?,,Common milkweed,124,n,n,11,14,control,y,2,na,,<50,0,1,0,0,na,<50
+6/24/25,9:08,68,sunny,6/25/25,9:54,75,sunny,AN,SYR,1,full,edge,1,15,feeder,45,40,15,10,4,50,3,SYR,3,115,5,100,10,0,,,,115,flowering,3,?,,Common milkweed,124,n,n,11,15,open,y,2,na,,<50,0,1,0,0,na,<50
+6/24/25,9:21,68,sunny,6/25/25,9:57,75,sunny,AN,SYR,2,full,edge,0,70,feeder,70,20,8,10,4,50,0,na,3,115,5,100,10,0,,,,87,flowering,4,?,,Coneflower,111,n,n,11,15,control,y,2,na,,0,0,0,0,50-200,A. asclepiadis,50-200
+6/24/25,9:21,68,sunny,6/25/25,9:57,75,sunny,AN,SYR,2,full,edge,0,70,feeder,70,20,8,10,4,50,0,na,3,115,5,100,10,0,,,,87,flowering,4,?,,Coneflower,111,n,n,11,15,open,y,0,na,,0,0,0,0,50-200,A. asclepiadis,50-200
+7/8/25,12:29,80,sunny,7/9/25,11:36,76,cloudy,AN,INC,3,partial,edge,0,25,feeder,3,40,20,12,6,50,1,INC,3,115,5,100,10,0,,,,49,vegetative,7,0,,Grass,57,n,n,6,11,control ,y,2,na,,0,0,0,0,0,na,0
+7/8/25,12:29,80,sunny,7/9/25,11:36,76,cloudy,AN,INC,3,partial,edge,0,25,feeder,3,40,20,12,6,50,1,INC,3,115,5,100,10,0,,,,49,vegetative,7,0,,Grass,57,n,n,6,8,open,n,0,na,,0,0,0,0,0,na,0
+7/8/25,12:31,80,sunny,7/9/25,11:38,76,cloudy,AN,INC,4,partial,edge,2,25,feeder,25,45,10,12,6,50,2,INC,3,115,5,100,10,0,,,,48,vegetative,8,0,,Aster,70,n,n,6,10,control ,y,2,na,,0,0,0,0,0,na,0
+7/8/25,12:31,80,sunny,7/9/25,11:38,76,cloudy,AN,INC,4,partial,edge,2,25,feeder,25,45,10,12,6,50,2,INC,3,115,5,100,10,0,,,,48,vegetative,8,0,,Aster,70,n,n,6,11,open,y,2,na,,0,0,0,0,0,na,0
+7/8/25,12:20,80,sunny,7/9/25,11:39,76,cloudy,AN,SYR,3,full ,edge,2,na,na,50,100,20,10,4,50,0,na,3,115,5,100,10,0,,,,79,flowering,5,1,,Grass,62,n,n,6,9,control ,n,0,unclear — totally gone,,0,0,0,0,0,na,0
+7/8/25,12:20,80,sunny,7/9/25,11:39,76,cloudy,AN,SYR,3,full ,edge,1,na,na,50,100,20,10,4,50,0,na,3,115,5,100,10,0,,,,79,flowering,5,1,,Grass,62,n,n,6,5,open,n,0,na,,0,0,0,0,0,na,0
+7/8/25,12:21,80,sunny,7/9/25,11:42,76,cloudy,AN,SYR,4,shade,middle ,9,na,na,80,150,6,10,4,50,0,na,3,115,5,100,10,0,,,,93,vegetative,3,0,,Grass,53,n,n,6,10,control ,y,0,na,,<50,0,0,0,0,na,<50
+7/8/25,12:21,80,sunny,7/9/25,11:42,76,cloudy,AN,SYR,4,shade,middle ,8,na,na,80,150,6,10,4,50,0,na,3,115,5,100,10,0,,,,93,vegetative,3,0,,Grass,53,n,n,6,11,open,n,0,na,,<50,0,0,0,0,na,<50
+7/22/25,12:05,74,sunny,7/23/25,11:36,74,cloudy,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,72,vegetative,6,0,,Aster,90,n,n,4,8,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,13:05,74,sunny,7/23/25,11:36,74,cloudy,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,72,vegetative,6,0,,Aster,90,n,n,4,9,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,13:02,74,sunny,7/23/25,11:33,74,cloudy,AN,INC,5,partial,edge,0,30,feeder,1,60,15,12,6,50,0,na,3,115,5,100,10,0,,,,54,vegetative,5,2,,1:01 pic,104,n,n,4,9,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,13:02,74,sunny,7/23/25,11:33,74,cloudy,AN,INC,5,partial,edge,0,30,feeder,1,60,15,12,6,50,0,na,3,115,5,100,10,0,,,,54,vegetative,5,2,,1:01 pic,104,n,n,4,8,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,13:16,74,sunny,7/23/25,11:38,74,cloudy,AN,SYR,1,full,edge,1,15,feeder,45,40,15,10,4,50,3,SYR,3,115,5,100,10,0,,,,13,fruiting,8,0,,Common milkweed,164,n,n,4,8,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,13:16,74,sunny,7/23/25,11:38,74,cloudy,AN,SYR,1,full,edge,1,15,feeder,45,40,15,10,4,50,3,SYR,3,115,5,100,10,0,,,,13,fruiting,8,0,,Common milkweed,164,n,n,4,7,open,y,1,na,,0,0,0,0,0,na,0
+7/22/25,13:12,74,sunny,7/23/25,11:38,74,cloudy,AN,SYR,5,partial,middle ,4,60,feeder,60,15,5,10,4,50,0,na,3,115,5,100,10,0,,,,37,vegetative,6,1,,Goldenrod,108,n,n,4,6,control ,n,0,"gone, but no holes in bag",,<50,0,0,0,0,na,<50
+7/22/25,13:12,74,sunny,7/23/25,11:38,74,cloudy,AN,SYR,5,partial,middle ,4,60,feeder,60,15,5,10,4,50,0,na,3,115,5,100,10,0,,,,37,vegetative,6,1,,Goldenrod,108,n,n,4,9,open,y,1,na,,<50,0,0,0,0,na,<50
+8/5/25,12:55,83,sunny,8/6/25,11:50,74,cloudy,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,72,vegetative,4,0,,pic @ 12:55 (percy),102,n,n,8,10,control,n,0,"y, by orange assassin bug nymph",,0,0,0,0,0,na,0
+8/5/25,12:55,83,sunny,8/6/25,11:50,74,cloudy,AN,INC,2,shade,edge,2,25,feeder,1,50,10,12,6,50,2,INC,3,115,5,100,10,0,,,,72,vegetative,4,0,,pic @ 12:55 (percy),102,n,n,8,9,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,12:45,82,sunny,8/6/25,11:48,74,cloudy,AN,SYR,2,full,edge,0,70,feeder,70,20,8,10,4,50,0,na,3,115,5,100,10,0,,,,96,fruiting,6,3,,Purple coneflower,103,n,n,8,9,control,missing,0,na,,0,0,0,0,0,na,0
+8/5/25,12:45,82,sunny,8/6/25,11:48,74,cloudy,AN,SYR,2,full,edge,0,70,feeder,70,20,8,10,4,50,0,na,3,115,5,100,10,0,,,,96,fruiting,6,3,,Purple coneflower,103,n,n,8,11,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,12:45,82,sunny,8/6/25,11:53,74,cloudy,AN,SYR,3,full ,edge,4,na,na,50,100,20,10,4,50,0,na,3,115,5,100,10,0,,,,96,fruiting,2,1,,Grass,64,n,n,8,10,control,y,1,na,,<50,0,0,0,0,na,0
+8/5/25,12:45,82,sunny,8/6/25,11:53,74,cloudy,AN,SYR,3,full ,edge,3,na,na,50,100,20,10,4,50,0,na,3,115,5,100,10,0,,,,96,fruiting,2,1,,Grass,64,n,n,8,10,open,n,0,na,,<50,0,0,0,0,na,0
+6/24/25,10:11,83,sunny,25-Jun,10:20,80,sunny,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,145,pre-flowering,3,?,,Goldenrod,133,n,n,11,13,control ,y,2,na,,0,0,0,0,0,na,0
+6/24/25,10:11,83,sunny,25-Jun,10:20,80,sunny,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,145,pre-flowering,3,?,,Goldenrod,133,n,n,11,14,open,n,0,na,,0,0,0,0,0,na,0
+6/24/25,10:16,83,sunny,25-Jun,10:18,80,sunny,AW,INC,2,partial,edge,2,20,birdhouse,30,65,15,19,9,25,0,na,3,45,5,30,10,0,,,,119,pre-flowering,6,?,,10:13 photo,168,n,n,11,10,control ,y,1,na,,0,0,0,0,0,na,0
+6/24/25,10:16,83,sunny,25-Jun,10:18,80,sunny,AW,INC,2,partial,edge,2,20,birdhouse,30,65,15,19,9,25,0,na,3,45,5,30,10,0,,,,119,pre-flowering,6,?,,10:13 photo,168,n,n,11,11,open,y,0,na,,0,0,0,0,0,na,0
+6/24/25,10:26,83,sunny,25-Jun,10:22,80,sunny,AW,SYR,1,shade,edge,11,na,na,20,3,10,10,5,25,1,SYR,3,45,5,30,10,0,,,,78,pre-flowering,2,1,,10:22 photo,27,n,n,11,11,control ,y,1,na,,0,0,0,0,0,na,0
+6/24/25,10:26,83,sunny,25-Jun,10:22,80,sunny,AW,SYR,1,shade,edge,10,na,na,20,3,10,10,5,25,1,SYR,3,45,5,30,10,0,,,,78,pre-flowering,2,1,,10:22 photo,27,n,n,11,10,open,n,0,na,,0,0,0,0,0,na,0
+6/24/25,10:30,83,sunny,25-Jun,10:24,80,sunny,AW,SYR,2,shade,edge,13,na,na,20,0,8,10,5,25,2,SYR,3,45,5,30,10,0,,,,104,flowering,3,0,,Common milkweed,97,n,n,11,13,control ,y,2,na,,0,0,0,0,0,na,0
+6/24/25,10:30,83,sunny,25-Jun,10:24,80,sunny,AW,SYR,2,shade,edge,12,na,na,20,0,8,10,5,25,2,SYR,3,45,5,30,10,0,,,,104,flowering,3,0,,Common milkweed,97,n,n,11,16,open,y,0,na,,0,0,0,0,0,na,0
+7/8/25,13:50,81,cloudy,7/9/25,12:10,77,cloudy,AW,INC,3,full ,edge,1,na,na,100,25,15,19,9,25,2,INC,3,45,5,30,10,0,,,,45,vegetative,6,1,,Grass,80,n,n,6,13,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:50,81,cloudy,7/9/25,12:10,77,cloudy,AW,INC,3,full ,edge,0,na,na,100,25,15,19,9,25,2,INC,3,45,5,30,10,0,,,,45,vegetative,6,1,,Grass,80,n,n,6,10,open,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:55,81,cloudy,7/9/25,12:10,77,cloudy,AW,INC,4,full ,edge,1,na,na,100,25,15,19,9,25,0,na,3,45,5,30,10,0,,,,32,vegetative,6,1,,NE Aster,46,n,n,6,7,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:55,81,cloudy,7/9/25,12:10,77,cloudy,AW,INC,4,full ,edge,0,na,na,100,25,15,19,9,25,0,na,3,45,5,30,10,0,,,,32,vegetative,6,1,,NE Aster,46,n,n,6,11,open,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:44,81,cloudy,7/9/25,12:07,77,cloudy,AW,SYR,3,shade,middle,9,na,na,20,5,12,10,5,25,1,SYR,3,45,5,30,10,0,,,,52,vegetative,5,0,,Common milkweed,100,n,n,6,12,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:44,81,cloudy,7/9/25,12:07,77,cloudy,AW,SYR,3,shade,middle,8,na,na,20,5,12,10,5,25,1,SYR,3,45,5,30,10,0,,,,52,vegetative,5,0,,Common milkweed,100,n,n,6,6,open,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:46,81,cloudy,7/9/25,12:08,77,cloudy,AW,SYR,4,full ,edge,1,na,na,30,20,10,10,5,25,0,na,3,45,5,30,10,0,,,,71,pre-flowering,5,1,,Zinnia,15,n,n,6,8,control ,y,0,na,,<50,0,0,0,0,na,<50
+7/8/25,13:46,81,cloudy,7/9/25,12:08,77,cloudy,AW,SYR,4,full ,edge,0,na,na,30,20,10,10,5,25,0,na,3,45,5,30,10,0,,,,71,pre-flowering,5,1,,Zinnia,15,n,n,6,11,open,y,2,na,,<50,0,0,0,0,na,<50
+7/22/25,14:42,77,sunny,7/23/25,12:20,77,sunny,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,140,flowering,4,0,,Goldenrod,132,n,n,4,5,control ,y,2,na,,0,0,0,0,0,na,0
+7/22/25,14:42,77,sunny,7/23/25,12:20,77,sunny,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,140,flowering,4,0,,Goldenrod,132,n,n,4,10,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,14:36,77,sunny,7/23/25,12:22,77,sunny,AW,INC,5,full ,edge,0,25,birdhouse,20,60,15,19,9,25,0,na,3,45,5,30,10,0,,,,66,vegetative,5,0,,Goldenrod,130,n,n,4,8,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,14:36,77,sunny,7/23/25,12:22,77,sunny,AW,INC,5,full ,edge,0,25,birdhouse,20,60,15,19,9,25,0,na,3,45,5,30,10,0,,,,66,vegetative,5,0,,Goldenrod,130,n,n,4,6,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,14:50,77,sunny,7/23/25,12:26,77,sunny,AW,SYR,1,shade,edge,13,na,na,20,3,10,10,5,25,1,SYR,3,45,5,30,10,0,,,,100,vegetative,4,0,,Common milkweed,53,n,n,4,4,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,14:50,77,sunny,7/23/25,12:26,77,sunny,AW,SYR,1,shade,edge,12,na,na,20,3,10,10,5,25,1,SYR,3,45,5,30,10,0,,,,100,vegetative,4,0,,Common milkweed,53,n,n,4,6,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,14:46,77,sunny,7/23/25,12:23,77,sunny,AW,SYR,5,full ,edge,0,20,birdhouse,30,20,15,10,5,25,2,SYR,3,45,5,30,10,0,,,,54,pre-flowering,3,0,,grass,28,n,n,4,6,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,14:46,77,sunny,7/23/25,12:23,77,sunny,AW,SYR,5,full ,edge,0,20,birdhouse,30,20,15,10,5,25,2,SYR,3,45,5,30,10,0,,,,54,pre-flowering,3,0,,grass,28,n,n,4,7,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,13:33,81,sunny,8/6/25,12:18,75,cloudy,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,152,flowering,6,0,,American aster,144,n,n,8,10,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:33,81,sunny,8/6/25,12:18,75,cloudy,AW,INC,1,partial,edge,3,20,birdhouse,25,60,15,19,9,25,1,INC,3,45,5,30,10,0,,,,152,flowering,6,0,,American aster,144,n,n,8,11,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,13:45,81,sunny,8/6/25,12:21,75,cloudy,AW,INC,3,full ,edge,3,na,na,100,25,15,19,9,25,2,INC,3,45,5,30,10,0,,,,15,vegetative,5,1,,Grass,18,n,n,8,9,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:45,81,sunny,8/6/25,12:21,75,cloudy,AW,INC,3,full ,edge,2,na,na,100,25,15,19,9,25,2,INC,3,45,5,30,10,0,,,,15,vegetative,5,1,,Grass,18,n,n,8,10,open,y,2,na,,0,0,0,0,0,na,0
+8/5/25,13:38,81,sunny,8/6/25,12:24,75,cloudy,AW,SYR,2,shade,edge,15,na,na,20,0,8,10,5,25,2,SYR,3,45,5,30,10,0,,,,97,vegetative,4,0,,Common milkweed,95,n,n,8,11,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:38,81,sunny,8/6/25,12:24,75,cloudy,AW,SYR,2,shade,edge,14,na,na,20,0,8,10,5,25,2,SYR,3,45,5,30,10,0,,,,97,vegetative,4,0,,Common milkweed,95,n,n,8,10,open,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:40,81,sunny,8/6/25,12:23,75,cloudy,AW,SYR,3,shade,middle,11,na,na,20,5,12,10,5,25,1,SYR,3,45,5,30,10,0,,,,60,vegetative,4,0,,Common milkweed,66,n,n,8,9,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:40,81,sunny,8/6/25,12:23,75,cloudy,AW,SYR,3,shade,middle,10,na,na,20,5,12,10,5,25,1,SYR,3,45,5,30,10,0,,,,60,vegetative,4,0,,Common milkweed,66,n,n,8,9,open,y,1,na,,0,0,0,0,0,na,0
+7/9/25,13:10,80,cloudy,7/10/25,14:18,81,sunny,BH,INC,1,partial,middle ,3,na,na,30,20,2,16,5,25,4,INC,3,32,10,0,15,7,,,,99,flowering,8,0,,Swamp milkweed,98,n,n,7,16,control,y,2,na,,0,0,0,0,0,na,0
+7/9/25,13:10,80,cloudy,7/10/25,14:18,81,sunny,BH,INC,1,partial,middle ,2,na,na,30,20,2,16,5,25,4,INC,3,32,10,0,15,7,,,,99,flowering,8,0,,Swamp milkweed,98,n,n,7,12,open,n,0,na,,0,0,0,0,0,na,0
+7/9/25,13:10,80,cloudy,7/10/25,14:21,81,sunny,BH,INC,2,partial,middle ,16,na,na,20,10,10,16,5,25,2,INC,3,32,10,0,15,7,,,,102,post-flowering,4,1,,Swamp milkweed,107,n,n,7,10,control,y,3,na,,0,0,0,0,0,na,0
+7/9/25,13:10,80,cloudy,7/10/25,14:21,81,sunny,BH,INC,2,partial,middle ,15,na,na,20,10,10,16,5,25,2,INC,3,32,10,0,15,7,,,,102,post-flowering,4,1,,Swamp milkweed,107,n,n,7,9,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,15:34,78,sunny,7/23/25,12:38,78,sunny,BH,INC,3,shade,middle ,21,na,na,25,10,10,16,5,25,2,INC,3,32,10,0,15,7,,,,117,pre-flowering,1,0,,Swamp milkweed,7,n,n,4,4,control ,y,1,na,,0,200-500,0,0,0,na,200-500
+7/22/25,15:34,78,sunny,7/23/25,12:38,78,sunny,BH,INC,3,shade,middle ,20,na,na,25,10,10,16,5,25,2,INC,3,32,10,0,15,7,,,,117,pre-flowering,1,0,,Swamp milkweed,7,n,n,4,7,open,n,0,na,,0,200-500,0,0,0,na,200-500
+7/22/25,15:37,78,sunny,7/23/25,12:40,78,sunny,BH,INC,4,shade,middle ,21,na,na,25,10,10,16,5,25,4,INC,3,32,10,0,15,7,,,,92,flowering,5,1,,3:33 photo,97,n,n,4,4,control ,y,1,na,,0,<50,0,0,0,na,<50
+7/22/25,15:37,78,sunny,7/23/25,12:40,78,sunny,BH,INC,4,shade,middle ,20,na,na,25,10,10,16,5,25,4,INC,3,32,10,0,15,7,,,,92,flowering,5,1,,3:33 photo,97,n,n,4,6,open,y,1,na,,0,<50,0,0,0,na,<50
+8/5/25,14:29,81,sunny,8/6/25,12:53,77,cloudy,BH,INC,1,partial,middle ,5,na,na,30,20,2,16,5,25,4,INC,3,32,10,0,15,7,,,,105,flowering,4,1,,Swamp milkweed,95,n,n,8,10,control,y,0,na,,0,>1000,1,0,0,na,>1000
+8/5/25,14:29,81,sunny,8/6/25,12:53,77,cloudy,BH,INC,1,partial,middle ,4,na,na,30,20,2,16,5,25,4,INC,3,32,10,0,15,7,,,,105,flowering,4,1,,Swamp milkweed,95,n,n,8,12,open,n,0,na,,0,>1000,1,0,0,na,>1000
+8/5/25,14:33,81,sunny,8/6/25,12:52,77,cloudy,BH,INC,5,shade,middle ,3,na,na,25,10,2,16,5,25,4,INC,3,32,10,0,15,7,,,,42,vegetative,6,2,,Swamp milkweed,71,n,n,8,9,control,y,3,na,,0,>1000,1,0,0,na,>1000
+8/5/25,14:33,81,sunny,8/6/25,12:52,77,cloudy,BH,INC,5,shade,middle ,2,na,na,25,10,2,16,5,25,4,INC,3,32,10,0,15,7,,,,42,vegetative,6,2,,Swamp milkweed,71,n,n,8,10,open,n,0,na,,0,>1000,1,0,0,na,>1000
+7/8/25,13:19,81,raining,7/9/25,11:54,77,cloudy,CE,INC,1,full ,middle ,3,na,na,20,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,73,pre-flowering,6,1,,NE Aster,73,n,n,6,11,control ,y,2,na,,0,0,0,0,0,na,0
+7/8/25,13:19,81,raining,7/9/25,11:54,77,cloudy,CE,INC,1,full ,middle ,2,na,na,20,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,73,pre-flowering,6,1,,NE Aster,73,n,n,6,6,open,n,0,na,,0,0,0,0,0,na,0
+7/8/25,13:23,81,raining,7/9/25,11:55,77,cloudy,CE,INC,2,partial,middle,2,na,na,15,15,40,21,10,75,1,INC,2,25,0,20,5,0,,,,40,vegetative,9,1,,Grass,111,n,n,6,10,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,13:23,81,raining,7/9/25,11:55,77,cloudy,CE,INC,2,partial,middle,1,na,na,15,15,40,21,10,75,1,INC,2,25,0,20,5,0,,,,40,vegetative,9,1,,Grass,111,n,n,6,12,open,n,0,na,,0,0,0,0,0,na,0
+7/8/25,13:28,81,raining,7/9/25,11:55,77,cloudy,CE,SYR,1,full ,edge,1,na,na,12,15,30,21,10,75,0,na,2,25,0,20,5,0,,,,91,post-flowering,11,0,,Common milkweed,84,n,n,6,8,control ,y,0,na,,<50,0,0,0,0,na,<50
+7/8/25,13:28,81,raining,7/9/25,11:55,77,cloudy,CE,SYR,1,full ,edge,0,na,na,12,15,30,21,10,75,0,na,2,25,0,20,5,0,,,,91,post-flowering,11,0,,Common milkweed,84,n,n,6,13,open,n,0,na,,<50,0,0,0,0,na,<50
+7/8/25,13:31,81,raining,7/9/25,11:57,77,cloudy,CE,SYR,2,full ,edge,2,na,na,15,12,30,21,10,75,3,"3 SYR, 1 INC",2,25,0,20,5,0,,,,68,vegetative,13,1,,Grass,105,n,n,6,8,control ,n,1,"totally gone, hole in bag",,0,0,0,0,0,na,0
+7/8/25,13:31,81,raining,7/9/25,11:57,77,cloudy,CE,SYR,2,full ,edge,1,na,na,15,12,30,21,10,75,3,"2 SYR, 1 INC",2,25,0,20,5,0,,,,68,vegetative,13,1,,Grass,105,n,n,6,7,open,y,0,na,,0,0,0,0,0,na,0
+7/22/25,15:00,76,sunny,7/23/25,11:50,76,cloudy,CE,INC,3,full ,middle ,3,na,na,25,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,78,flowering,9,3,,Wild carrot,104,n,n,4,5,control ,y,3,na,,0,0,0,0,0,na,0
+7/22/25,15:00,76,sunny,7/23/25,11:50,76,cloudy,CE,INC,3,full ,middle ,2,na,na,25,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,78,flowering,9,3,,Wild carrot,104,n,n,4,5,open,y,0,na,,0,0,0,0,0,na,0
+7/22/25,15:05,76,sunny,7/23/25,11:52,76,cloudy,CE,INC,4,full ,middle ,3,na,na,15,15,40,21,10,75,2,INC,2,25,0,20,5,0,,,,51,vegetative,9,2,,Bee balm,77,n,n,4,5,control ,y,2,na,,0,0,0,0,0,na,0
+7/22/25,15:05,76,sunny,7/23/25,11:52,76,cloudy,CE,INC,4,full ,middle ,2,na,na,15,15,40,21,10,75,2,INC,2,25,0,20,5,0,,,,51,vegetative,9,2,,Bee balm,77,n,n,4,5,open,n,1,na,,0,0,0,0,0,na,0
+7/22/25,15:09,76,sunny,7/23/25,11:53,76,cloudy,CE,SYR,3,full ,edge,1,na,na,10,20,30,21,10,75,0,na,2,25,0,20,5,0,,,,73,pre-flowering,9,1,,Grass,75,n,n,4,6,control ,y,1,na,,<50,<50,0,0,0,na,50-200
+7/22/25,15:09,76,sunny,7/23/25,11:53,76,cloudy,CE,SYR,3,full ,edge,0,na,na,10,20,30,21,10,75,0,na,2,25,0,20,5,0,,,,73,pre-flowering,9,1,,Grass,75,n,n,4,6,open,n,0,na,,<50,<50,0,0,0,na,50-200
+7/22/25,15:13,76,sunny,7/23/25,11:55,76,cloudy,CE,SYR,4,full ,edge,2,na,na,15,20,30,21,10,75,5,SYR,2,25,0,20,5,0,,,,152,fruiting,5,0,,White mulberry,182,n,n,4,7,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,15:13,76,sunny,7/23/25,11:55,76,cloudy,CE,SYR,4,full ,edge,1,na,na,15,20,30,21,10,75,5,SYR,2,25,0,20,5,0,,,,152,fruiting,5,0,,White mulberry,182,n,n,4,6,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,13:21,82,sunny,8/6/25,12:06,75,cloudy,CE,INC,1,full ,middle ,5,na,na,20,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,84,pre-flowering,6,3,,Aster,109,n,n,8,13,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,13:21,82,sunny,8/6/25,12:06,75,cloudy,CE,INC,1,full ,middle ,4,na,na,20,5,25,21,10,75,1,INC,2,25,0,20,5,0,,,,84,pre-flowering,6,3,,Aster,109,n,n,8,10,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,13:18,82,sunny,8/6/25,12:10,75,cloudy,CE,INC,5,full ,edge,2,na,na,15,15,40,21,10,75,4,SYR,2,25,0,20,5,0,,,,85,pre-flowering,5,0,,Common milkweed,105,n,n,8,10,control,y,1,na,,0,<50,0,0,0,na,<50
+8/5/25,13:18,82,sunny,8/6/25,12:10,75,cloudy,CE,INC,5,full ,edge,1,na,na,15,15,40,21,10,75,4,SYR,2,25,0,20,5,0,,,,85,pre-flowering,5,0,,Common milkweed,105,n,n,8,14,open,n,0,na,,0,<50,0,0,0,na,<50
+8/5/25,13:12,82,sunny,8/6/25,12:07,75,cloudy,CE,SYR,1,full ,edge,3,na,na,12,15,30,21,10,75,0,na,2,25,0,20,5,0,,,,89,vegetative,4,0,,American aster,90,n,n,8,10,control,y,2,na,,0,50-200,0,10,0,na,50-200
+8/5/25,13:12,82,sunny,8/6/25,12:07,75,cloudy,CE,SYR,1,full ,edge,2,na,na,12,15,30,21,10,75,0,na,2,25,0,20,5,0,,,,89,vegetative,4,0,,American aster,90,n,n,8,10,open,n,1,na,,0,50-200,0,10,0,na,50-200
+8/5/25,13:13,82,sunny,8/6/25,12:08,75,cloudy,CE,SYR,5,full ,edge,2,na,na,10,25,30,21,10,75,3,SYR,2,25,0,20,5,0,,,,114,fruiting,5,0,,Common milkweed,153,n,n,8,8,control,y,1,na,,<50,0,0,0,0,na,<50
+8/5/25,13:13,82,sunny,8/6/25,12:08,75,cloudy,CE,SYR,5,full ,edge,1,na,na,10,25,30,21,10,75,3,SYR,2,25,0,20,5,0,,,,114,fruiting,5,0,,Common milkweed,153,n,n,8,9,open,n,0,na,,<50,0,0,0,0,na,<50
+6/24/25,11:01,85,sunny,25-Jun,10:38,80,sunny,EB,INC,1,shade,middle,15,10,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,105,flowering,6,0,,Swamp milkweed,85,n,n,11,12,control ,y,2,na,,0,0,0,0,0,na,0
+6/24/25,11:01,85,sunny,25-Jun,10:38,80,sunny,EB,INC,1,shade,middle,15,10,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,105,flowering,6,0,,Swamp milkweed,85,n,n,11,15,open,y,1,na,,0,0,0,0,0,na,0
+6/24/25,11:07,85,sunny,25-Jun,10:35,80,sunny,EB,INC,2,partial,middle ,6,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,115,flowering,5,0,,Aster,137,n,n,11,15,control ,y,2,na,,0,0,0,0,0,na,0
+6/24/25,11:07,85,sunny,25-Jun,10:35,80,sunny,EB,INC,2,partial,middle ,5,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,115,flowering,5,0,,Aster,137,n,n,11,13,open,n,1,na,,0,0,0,0,0,na,0
+6/24/25,10:43,85,sunny,25-Jun,10:32,80,sunny,EB,SYR,1,full ,edge,2,na,na,15,25,10,15,6,75,2,SYR,3,115,10,100,5,0,,,,108,flowering,4,0,,Common milkweed,125,n,n,11,17,control ,y,1,na,,50-200,0,4,0,0,na,50-200
+6/24/25,10:43,85,sunny,25-Jun,10:32,80,sunny,EB,SYR,1,full ,edge,1,na,na,15,25,10,15,6,75,2,SYR,3,115,10,100,5,0,,,,108,flowering,4,0,,Common milkweed,125,n,n,11,11,open,y,1,na,,50-200,0,4,0,0,na,50-200
+6/24/25,10:54,85,sunny,25-Jun,10:31,80,sunny,EB,SYR,2,partial,edge,1,na,na,20,25,10,15,6,75,0,na,3,115,10,100,5,0,,,,98,vegetative,4,0,,10:52 photo,190,n,n,11,14,control ,y,2,na,,<50,0,11,0,0,na,<50
+6/24/25,10:54,85,sunny,25-Jun,10:31,80,sunny,EB,SYR,2,partial,edge,0,na,na,20,25,10,15,6,75,0,na,3,115,10,100,5,0,,,,98,vegetative,4,0,,10:52 photo,190,n,n,11,15,open,n,0,na,,<50,0,0,0,0,na,<50
+7/9/25,12:40,80,cloudy,7/10/25,14:02,81,sunny,EB,INC,3,shade,middle ,10,6,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,87,vegetative,7,1,,Swamp milkweed,118,n,n,7,11,control ,y,1,na,,0,0,0,0,0,na,0
+7/9/25,12:40,80,cloudy,7/10/25,14:02,81,sunny,EB,INC,3,shade,middle ,10,6,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,87,vegetative,7,1,,Swamp milkweed,118,n,n,7,12,open,n,0,na,,0,0,0,0,0,na,0
+7/9/25,12:47,80,cloudy,7/10/25,14:03,81,sunny,EB,INC,4,partial ,middle ,5,35,pond,20,60,3,14,6,50,1,INC,3,115,10,100,5,0,,,,133,vegetative,5,2,,Wingstem,172,n,n,7,12,control,y,1,na,,0,0,0,0,0,na,0
+7/9/25,12:47,80,cloudy,7/10/25,14:03,81,sunny,EB,INC,4,partial ,middle ,5,35,pond,20,60,3,14,6,50,1,INC,3,115,10,100,5,0,,,,133,vegetative,5,2,,Wingstem,172,n,n,7,12,open,n,0,na,,0,0,0,0,0,na,0
+7/9/25,12:25,80,cloudy,7/10/25,13:54,81,sunny,EB,SYR,3,full ,middle ,2,na,na,25,25,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,89,vegetative,8,1,,Common milkweed,166,y,n,7,11,control,y,0,na,,200-500,0,40,0,0,na,200-500
+7/9/25,12:25,80,cloudy,7/10/25,13:54,81,sunny,EB,SYR,3,full ,middle ,1,na,na,25,25,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,89,vegetative,8,1,,Common milkweed,166,y,n,7,10,open,n,0,na,,200-500,0,40,0,0,na,200-500
+7/9/25,12:31,80,cloudy,7/10/25,13:58,81,sunny,EB,SYR,4,full ,middle ,1,na,na,15,35,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,151,post-flowering,9,1,,Common milkweed,159,n,n,7,13,control,y,1,na,,200-500,0,5,0,0,na,200-500
+7/9/25,12:31,80,cloudy,7/10/25,13:58,81,sunny,EB,SYR,4,full ,middle ,0,na,na,15,35,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,151,post-flowering,9,1,,Common milkweed,159,n,n,7,10,open,n,0,na,,200-500,0,5,0,0,na,200-500
+7/22/25,13:45,74,sunny,7/23/25,12:05,76,cloudy,EB,INC,1,shade,middle,15,10,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,100,fruiting,6,2,,Cup flower,181,n,n,4,7,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,13:45,74,sunny,7/23/25,12:05,76,cloudy,EB,INC,1,shade,middle,15,10,pond,30,100,8,14,6,50,1,INC,3,115,10,100,5,0,,,,100,fruiting,6,2,,Cup flower,181,n,n,4,6,open,y,0,na,,0,0,0,0,0,na,0
+7/22/25,13:52,74,sunny,7/23/25,12:09,76,cloudy,EB,INC,2,partial,middle ,8,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,109,vegetative,4,1,,Aster,146,n,n,4,6,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,13:52,74,sunny,7/23/25,12:09,76,cloudy,EB,INC,2,partial,middle ,7,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,109,vegetative,4,1,,Aster,146,n,n,4,7,open,y,1,na,,0,0,0,0,0,na,0
+7/22/25,13:57,74,sunny,7/23/25,12:13,76,cloudy,EB,SYR,1,full ,edge,4,na,na,15,25,10,15,6,75,2,SYR,3,115,10,100,5,0,,,,115,fruiting,6,2,,Common milkweed,152,n,n,4,4,control ,y,2,na,,50-200,0,0,0,0,na,50-200
+7/22/25,13:57,74,sunny,7/23/25,12:13,76,cloudy,EB,SYR,1,full ,edge,3,na,na,15,25,10,15,6,75,2,SYR,3,115,10,100,5,0,,,,115,fruiting,6,2,,Common milkweed,152,n,n,4,6,open,y,0,na,,50-200,0,0,0,0,na,50-200
+7/22/25,13:40,74,sunny,7/23/25,12:07,76,cloudy,EB,SYR,5,full ,middle ,3,10,pond,20,60,3,15,6,75,0,na,3,115,10,100,5,0,,,,47,vegetative,7,0,,Aster,58,n,n,4,7,control ,y,0,na,,<50,0,2,0,0,na,<50
+7/22/25,13:40,74,sunny,7/23/25,12:07,76,cloudy,EB,SYR,5,full ,middle ,3,10,pond,20,60,3,15,6,75,0,na,3,115,10,100,5,0,,,,47,vegetative,7,0,,Aster,58,n,n,4,6,open,y,1,na,,<50,0,2,0,0,na,<50
+8/5/25,14:08,81,cloudy,8/6/25,12:35,76,cloudy,EB,INC,2,partial,middle ,10,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,125,vegetative,4,2,,Aster,189,n,n,8,11,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,14:08,81,cloudy,8/6/25,12:35,76,cloudy,EB,INC,2,partial,middle ,9,na,na,15,50,3,14,6,50,1,INC,3,115,10,100,5,0,,,,125,vegetative,4,2,,Aster,189,n,n,8,7,open,y,1,na,,0,0,0,0,0,na,0
+8/5/25,14:09,81,cloudy,8/6/25,12:36,76,cloudy,EB,INC,4,partial ,middle ,5,35,pond,20,60,3,14,6,50,1,INC,3,115,10,100,5,0,,,,130,vegetative,4,2,,Aster,156,n,n,8,10,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,14:09,81,cloudy,8/6/25,12:36,76,cloudy,EB,INC,4,partial ,middle ,5,35,pond,20,60,3,14,6,50,1,INC,3,115,10,100,5,0,,,,130,vegetative,4,2,,Aster,156,n,n,8,13,open,y,0,na,,0,0,0,0,0,na,0
+8/5/25,13:57,82,sunny,8/6/25,12:31,76,cloudy,EB,SYR,2,partial,edge,3,na,na,20,25,10,15,6,75,0,na,3,115,10,100,5,0,,,,127,post-flowering,6,0,,Walnut tree,168,n,y,8,7,control,y,0,na,,0,<50,0,2,0,na,<50
+8/5/25,13:57,82,sunny,8/6/25,12:31,76,cloudy,EB,SYR,2,partial,edge,2,na,na,20,25,10,15,6,75,0,na,3,115,10,100,5,0,,,,127,post-flowering,6,0,,Walnut tree,168,n,y,8,9,open,y,1,na,,0,<50,0,2,0,na,<50
+8/5/25,14:00,82,sunny,8/6/25,12:33,76,cloudy,EB,SYR,3,full ,middle ,4,na,na,25,25,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,104,vegetative,6,0,,Common milkweed,124,n,y,8,6,control,y,1,na,,0,50-200,0,10,0,na,50-200
+8/5/25,14:00,82,sunny,8/6/25,12:33,76,cloudy,EB,SYR,3,full ,middle ,3,na,na,25,25,15,15,6,75,4,SYR,3,115,10,100,5,0,,,,104,vegetative,6,0,,Common milkweed,124,n,y,8,10,open,y,1,na,,0,50-200,0,10,0,na,50-200
+7/8/25,9:08,74,cloudy,7/9/25,9:16,72,cloudy,GT,SYR,1,full ,edge,1,80,birdhouse,150,60,10,15,5,50,0,na,1,200,0,200,0,0,,,,99,post-flowering,5,0,,Grass,100,n,n,6,12,control ,y,3,na,,50-200,0,10,0,0,na,50-200
+7/8/25,9:08,74,cloudy,7/9/25,9:16,72,cloudy,GT,SYR,1,full ,edge,1,80,birdhouse,150,60,10,15,5,50,0,na,1,200,0,200,0,0,,,,99,post-flowering,5,0,,Grass,100,n,n,6,7,open,y,1,na,,50-200,0,10,0,0,na,50-200
+7/8/25,9:12,74,cloudy,7/9/25,9:25,72,cloudy,GT,SYR,2,partial ,edge,1,80,birdhouse,150,25,10,15,5,50,0,na,1,200,0,200,0,0,,,,109,flowering,8,1,,Grass,132,n,n,6,10,control ,y,1,na,,200-500,0,10,0,0,na,200-500
+7/8/25,9:12,74,cloudy,7/9/25,9:25,72,cloudy,GT,SYR,2,partial ,edge,1,80,birdhouse,150,25,10,15,5,50,0,na,1,200,0,200,0,0,,,,109,flowering,8,1,,Grass,132,n,n,6,11,open,n,0,na,,200-500,0,10,0,0,na,200-500
+7/22/25,9:20,64,sunny,7/23/25,9:12,68,cloudy,GT,SYR,3,full ,middle ,151,na,na,150,30,10,15,5,50,0,na,1,200,0,200,0,0,,,,116,vegetative,6,0,,Grass,126,n,n,4,5,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,9:20,64,sunny,7/23/25,9:12,68,cloudy,GT,SYR,3,full ,middle ,150,na,na,150,30,10,15,5,50,0,na,1,200,0,200,0,0,,,,116,vegetative,6,0,,Grass,126,n,n,4,6,open,y,1,na,,0,0,0,0,0,na,0
+7/22/25,9:22,64,sunny,7/23/25,9:15,68,cloudy,GT,SYR,4,full ,edge,151,na,na,150,30,20,15,5,50,1,SYR,1,200,0,200,0,0,,,,94,post-flowering,11,1,,Grass,109,n,n,4,9,control ,n,0,n,,<50,0,0,0,0,na,<50
+7/22/25,9:22,64,sunny,7/23/25,9:15,68,cloudy,GT,SYR,4,full ,edge,150,na,na,150,30,20,15,5,50,1,SYR,1,200,0,200,0,0,,,,94,post-flowering,11,1,,Grass,109,n,n,4,7,open,y,0,na,,<50,0,0,0,0,na,<50
+8/5/25,9:09,63,sunny,8/6/25,9:44,72,cloudy,GT,SYR,1,full ,edge,1,80,birdhouse,150,60,10,15,5,50,0,na,1,200,0,200,0,0,,,,100,fruiting,5,2,,Grass,77,n,n,8,11,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,9:09,63,sunny,8/6/25,9:44,72,cloudy,GT,SYR,1,full ,edge,1,80,birdhouse,150,60,10,15,5,50,0,na,1,200,0,200,0,0,,,,100,fruiting,5,2,,Grass,77,n,n,8,10,open,y,0,na,,0,0,0,0,0,na,0
+8/5/25,9:23,63,sunny,8/6/25,9:47,72,cloudy,GT,SYR,4,full ,edge,153,na,na,150,30,20,15,5,50,1,SYR,1,200,0,200,0,0,,,,95,fruiting,8,1,,Grass,111,n,n,8,13,control,y,1,na,,0,0,0,0,0,na,0
+8/5/25,9:23,63,sunny,8/6/25,9:47,72,cloudy,GT,SYR,4,full ,edge,152,na,na,150,30,20,15,5,50,1,SYR,1,200,0,200,0,0,,,,95,fruiting,8,1,,Grass,111,n,n,8,11,open,n,0,na,,0,0,0,0,0,na,0
+7/8/25,11:18,80,raining,7/9/25,10:58,75,cloudy,HS,INC,1,full ,edge,3,8,bath,8,60,15,14,10,50,2,INC,3,150,20,100,30,0,,,,74,flowering,1,0,,Swamp milkweed,50,n,n,6,13,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,11:18,80,raining,7/9/25,10:58,75,cloudy,HS,INC,1,full ,edge,3,8,bath,8,60,15,14,10,50,2,INC,3,150,20,100,30,0,,,,74,flowering,1,0,,Swamp milkweed,50,n,n,6,11,open,y,0,na,,0,0,0,0,0,na,0
+7/8/25,11:20,80,raining,7/9/25,10:55,75,cloudy,HS,INC,2,partial,edge,4,50,birdhouse,5,80,10,14,10,50,2,INC,3,150,20,100,30,0,,,,40,vegetative,9,?,,Swamp milkweed,39,n,n,6,8,control ,y,2,na,,0,<50,0,0,0,na,<50
+7/8/25,11:20,80,raining,7/9/25,10:55,75,cloudy,HS,INC,2,partial,edge,4,50,birdhouse,5,80,10,14,10,50,2,INC,3,150,20,100,30,0,,,,40,vegetative,9,?,,Swamp milkweed,39,n,n,6,10,open,y,1,na,,0,<50,0,0,0,na,<50
+7/8/25,11:09,80,raining,7/9/25,10:49,75,cloudy,HS,SYR,1,full ,edge,1,40,birdhouse,100,150,20,12,7,25,1,SYR,3,150,20,100,30,0,,,,92,flowering,5,?,,Grass,30,n,n,6,7,control ,y,1,na,,<50,0,5,0,0,na,<50
+7/8/25,11:09,80,raining,7/9/25,10:49,75,cloudy,HS,SYR,1,full ,edge,1,40,birdhouse,100,150,20,12,7,25,1,SYR,3,150,20,100,30,0,,,,92,flowering,5,?,,Grass,30,n,n,6,7,open,n,0,na,,<50,0,5,0,0,na,<50
+7/8/25,11:14,80,raining,7/9/25,10:55,75,cloudy,HS,SYR,2,full ,edge,10,8,bath,8,60,15,12,7,25,7,"5 SYR, 3 INC",3,150,20,100,30,0,,,,78,pre-flowering,8,2,,Common milkweed,112,n,n,6,7,control ,y,1,na,,<50,0,0,0,0,na,<50
+7/8/25,11:14,80,raining,7/9/25,10:55,75,cloudy,HS,SYR,2,full ,edge,10,8,bath,8,60,15,12,7,25,7,"4 SYR, 3 INC",3,150,20,100,30,0,,,,78,pre-flowering,8,2,,Common milkweed,112,n,n,6,11,open,n,0,na,,<50,0,0,0,0,na,<50
+7/22/25,11:59,72,sunny,7/23/25,10:45,74,sunny,HS,INC,3,full,middle,3,8,feeder,25,150,25,14,10,50,0,na,3,150,20,100,30,0,,,,102,fruiting,4,2,,fruit tree?,161,n,n,4,6,control ,y,0,na,,0,0,0,0,0,na,0
+7/22/25,11:59,72,sunny,7/23/25,10:45,74,sunny,HS,INC,3,full,middle,3,8,feeder,25,150,25,14,10,50,0,na,3,150,20,100,30,0,,,,102,fruiting,4,2,,fruit tree?,161,n,n,4,7,open,n,0,na,,0,0,0,0,0,na,0
+7/22/25,12:05,72,sunny,7/23/25,10:52,74,sunny,HS,INC,4,partial,edge,3,50,birdhouse,8,80,10,14,10,50,0,na,3,150,20,100,30,0,,,,,vegetative,3,0,,12:06 pic,27,y,n,4,9,control ,y,0,na,,0,1000-2000,0,200,0,na,1000-2000
+7/22/25,12:05,72,sunny,7/23/25,10:52,74,sunny,HS,INC,4,partial,edge,3,50,birdhouse,8,80,10,14,10,50,0,na,3,150,20,100,30,0,,,,,vegetative,3,0,,12:06 pic,27,y,n,4,7,open,y,0,na,,0,1000-2000,0,180,0,na,1000-2000
+7/22/25,11:52,72,sunny,7/23/25,10:49,74,sunny,HS,SYR,3,full ,edge,1,30,birdhouse,40,150,15,12,7,25,4,SYR,3,150,20,100,30,0,,,,88,vegetative,7,1,,Common milkweed,120,n,n,4,7,control ,y,1,na,,<50,<50,0,0,0,na,<50
+7/22/25,11:52,72,sunny,7/23/25,10:49,74,sunny,HS,SYR,3,full ,edge,1,30,birdhouse,40,150,15,12,7,25,4,SYR,3,150,20,100,30,0,,,,88,vegetative,7,1,,Common milkweed,120,n,n,4,7,open,y,1,na,,<50,<50,0,0,0,na,<50
+7/22/25,12:17,72,sunny,7/23/25,10:41,74,sunny,HS,SYR,4,full ,middle ,8,5,bath,8,70,15,12,7,25,8,"2 INC, 7 TUB",3,150,20,100,30,0,,,,130,post-flowering,8,4,,Yarrow,69,n,n,4,9,control ,y,1,na,,<50,<50,0,0,0,na,<50
+7/22/25,12:17,72,sunny,7/23/25,10:41,74,sunny,HS,SYR,4,full ,middle ,8,5,bath,8,70,15,12,7,25,8,"1 INC, 7 TUB",3,150,20,100,30,0,,,,130,post-flowering,8,4,,Yarrow,69,n,n,4,6,open,n,0,na,,<50,<50,0,0,0,na,<50
+8/5/25,11:17,75,sunny,8/6/25,11:03,75,cloudy,HS,INC,1,full ,edge,3,8,bath,8,60,15,14,10,50,2,INC,3,150,20,100,30,0,,,,58,flowering,2,1,,Swamp milkweed,75,y,n,8,9,control,y,0,na,,0,>2000,0,50,0,na,>2000
+8/5/25,11:17,75,sunny,8/6/25,11:03,75,cloudy,HS,INC,1,full ,edge,3,8,bath,8,60,15,14,10,50,2,INC,3,150,20,100,30,0,,,,58,flowering,2,1,,Swamp milkweed,75,y,n,8,10,open,y,0,na,,0,>2000,0,50,0,na,>2000
+8/5/25,11:17,75,sunny,8/6/25,10:57,75,cloudy,HS,INC,5,full ,middle ,8,50,birdhouse,10,70,15,14,10,50,4,"4 TUB, 1 SYR",3,150,20,100,30,0,,,,102,vegetative,4,2,,Yarrow,64,y,n,8,10,control,y,2,na,,0,>2000,0,50,0,na,>2000
+8/5/25,11:17,75,sunny,8/6/25,10:57,75,cloudy,HS,INC,5,full ,middle ,8,50,birdhouse,10,70,15,14,10,50,4,"3 TUB, 1 SYR",3,150,20,100,30,0,,,,102,vegetative,4,2,,Yarrow,64,y,n,8,9,open,y,0,na,,0,>2000,0,50,0,na,>2000
+8/5/25,11:14,75,sunny,8/6/25,11:06,75,cloudy,HS,SYR,1,full ,edge,1,40,birdhouse,100,150,20,12,7,25,1,SYR,3,150,20,100,30,0,,,,122,fruiting,2,0,,Grass,23,n,n,8,10,control,y,1,na,,<50,<50,0,0,0,na,50-200
+8/5/25,11:14,75,sunny,8/6/25,11:06,75,cloudy,HS,SYR,1,full ,edge,1,40,birdhouse,100,150,20,12,7,25,1,SYR,3,150,20,100,30,0,,,,122,fruiting,2,0,,Grass,23,n,n,8,12,open,y,1,na,,<50,<50,0,0,0,na,50-200
+8/5/25,11:14,75,sunny,8/6/25,10:59,75,cloudy,HS,SYR,4,full ,middle ,8,5,bath,8,70,15,12,7,25,8,"4 INC, 7 TUB",3,150,20,100,30,0,,,,124,fruiting,4,4,,Yarrow,62,n,n,8,13,control,y,1,na,,0,>2000,0,0,0,na,>2000
+8/5/25,11:14,75,sunny,8/6/25,10:59,75,cloudy,HS,SYR,4,full ,middle ,8,5,bath,8,70,15,12,7,25,8,"3 INC, 7 TUB",3,150,20,100,30,0,,,,124,fruiting,4,4,,Yarrow,62,n,n,8,13,open,y,0,na,,0,>2000,0,0,0,na,>2000
+7/8/25,10:28,79,cloudy,7/9/25,10:17,74,cloudy,JR,SYR,1,full ,edge,1,100,birdhouse,150,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,139,post-flowering,12,1,,Common milkweed,144,n,n,6,9,control ,n,0,n,,<50,0,0,0,0,na,<50
+7/8/25,10:28,79,cloudy,7/9/25,10:17,74,cloudy,JR,SYR,1,full ,edge,1,100,birdhouse,150,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,139,post-flowering,12,1,,Common milkweed,144,n,n,6,8,open,n,0,na,,<50,0,0,0,0,na,<50
+7/8/25,10:32,79,cloudy,7/9/25,10:20,74,cloudy,JR,SYR,2,full ,edge,1,90,birdhouse,150,150,25,17,9,50,2,SYR,1,50,0,50,0,0,,,,127,pre-flowering,6,?,,Common milkweed,136,n,n,6,9,control ,y,1,na,,<50,0,0,0,0,na,<50
+7/8/25,10:32,79,cloudy,7/9/25,10:20,74,cloudy,JR,SYR,2,full ,edge,1,90,birdhouse,150,150,25,17,9,50,2,SYR,1,50,0,50,0,0,,,,127,pre-flowering,6,?,,Common milkweed,136,n,n,6,8,open,y,0,na,,<50,0,0,0,0,na,<50
+7/22/25,10:42,69,sunny,7/23/25,10:12,72,cloudy,JR,SYR,3,full ,middle ,3,na,na,100,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,148,fruiting,8,1,,Blackberry,195,n,n,4,7,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,10:42,69,sunny,7/23/25,10:12,72,cloudy,JR,SYR,3,full ,middle ,2,na,na,100,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,148,fruiting,8,1,,Blackberry,195,n,n,4,7,open,n,1,na,,0,0,0,0,0,na,0
+7/22/25,10:45,69,sunny,7/23/25,10:06,72,cloudy,JR,SYR,4,full ,edge,1,60,feeder,100,150,15,17,9,50,2,SYR,1,50,0,50,0,0,,,,98,vegetative,8,1,,Common milkweed,137,n,n,4,7,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,10:45,69,sunny,7/23/25,10:06,72,cloudy,JR,SYR,4,full ,edge,1,60,feeder,100,150,15,17,9,50,2,SYR,1,50,0,50,0,0,,,,98,vegetative,8,1,,Common milkweed,137,n,n,4,9,open,n,1,na,y,0,0,0,0,0,na,0
+8/5/25,10:25,68,sunny,8/6/25,10:35,74,cloudy,JR,SYR,1,full ,edge,1,100,birdhouse,150,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,130,fruiting,5,1,,Grass,84,n,n,8,9,control,y,2,na,,0,0,0,0,0,na,0
+8/5/25,10:25,68,sunny,8/6/25,10:35,74,cloudy,JR,SYR,1,full ,edge,1,100,birdhouse,150,150,15,17,9,50,1,SYR,1,50,0,50,0,0,,,,130,fruiting,5,1,,Grass,84,n,n,8,12,open,y,0,na,,0,0,0,0,0,na,0
+8/5/25,10:19,68,sunny,8/6/25,10:34,74,cloudy,JR,SYR,5,full ,middle ,15,40,feeder,60,150,30,17,9,50,0,na,1,50,0,50,0,0,,,,123,vegetative,4,1,,Grass,70,n,n,8,9,control,y,2,na,,0,50-200,0,0,0,na,50-200
+8/5/25,10:19,68,sunny,8/6/25,10:34,74,cloudy,JR,SYR,5,full ,middle ,15,40,feeder,60,150,30,17,9,50,0,na,1,50,0,50,0,0,,,,123,vegetative,4,1,,Grass,70,n,n,8,14,open,n,0,na,,0,50-200,0,0,0,na,50-200
+6/24/25,12:25,88,sunny,6/25/25,11:09,85,sunny,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,117,pre-flowering,4,1,herb robert,Buckeye,123,n,n,11,13,control,y,0,na,,<50,0,0,0,<50,M. persicae,<50
+6/24/25,12:25,88,sunny,6/25/25,11:09,85,sunny,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,117,pre-flowering,4,1,herb robert,Buckeye,123,n,n,11,12,open,n,0,na,,<50,0,0,0,<50,M. persicae,<50
+6/24/25,12:29,88,sunny,6/25/25,11:05,85,sunny,JY,INC,2,full,edge,4,20,birdhouse,4,40,15,13,8,25,5,"5 INC, 1 SYR",3,75,5,50,20,0,,,,93,flowering,2,?,,Swamp milkweed,96,n,n,11,9,control,y,2,na,,<50,0,1,0,0,na,<50
+6/24/25,12:29,88,sunny,6/25/25,11:05,85,sunny,JY,INC,2,full,edge,4,20,birdhouse,4,40,15,13,8,25,5,"4 INC, 1 SYR",3,75,5,50,20,0,,,,93,flowering,2,?,,Swamp milkweed,96,n,n,11,14,open,n,0,na,,<50,0,1,0,0,na,<50
+6/24/25,12:14,88,sunny,6/25/25,11:03,85,sunny,JY,SYR,1,partial,edge,6,25,birdhouse,5,40,8,13,8,25,4,SYR,3,75,5,50,20,0,,,,104,flowering,3,?,,Common milkweed,117,y,y,11,17,control,y,3,na,,>2000,0,250,0,0,na,>2000
+6/24/25,12:14,88,sunny,6/25/25,11:03,85,sunny,JY,SYR,1,partial,edge,6,25,birdhouse,5,40,8,13,8,25,4,SYR,3,75,5,50,20,0,,,,104,flowering,3,?,,Common milkweed,117,y,y,11,11,open,n,0,na,,>2000,0,250,0,0,na,>2000
+6/24/25,12:19,88,sunny,6/25/25,11:06,85,sunny,JY,SYR,2,partial,edge,1,30,birdhouse,15,45,15,13,8,25,2,SYR,3,75,5,50,20,0,,,,104,flowering,3,?,,Common milkweed,102,y,y,11,16,control,y,1,na,,1000-2000,0,50,0,0,na,1000-2000
+6/24/25,12:19,88,sunny,6/25/25,11:06,85,sunny,JY,SYR,2,partial,edge,1,30,birdhouse,15,45,15,13,8,25,2,SYR,3,75,5,50,20,0,,,,104,flowering,3,?,,Common milkweed,102,y,y,11,13,open,y,1,na,,1000-2000,0,75,0,0,na,1000-2000
+7/1/25,9:52,75,raining,7/2/25,9:47,73,sunny,JY,INC,3,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,81,pre-flowering,4,0,,Buckeye,158,n,n,10,6,control,y,2,na,,0,200-500,0,0,0,na,200-500
+7/1/25,9:52,75,raining,7/2/25,9:47,73,sunny,JY,INC,3,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,81,pre-flowering,4,0,,Buckeye,158,n,n,10,9,open,n,0,na,,0,200-500,0,0,0,na,200-500
+7/1/25,9:57,75,raining,7/2/25,9:50,73,sunny,JY,INC,4,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,,pre-flowering,4,0,,Buckeye,158,n,n,10,11,control,y,1,na,,0,<50,0,0,0,na,<50
+7/1/25,9:57,75,raining,7/2/25,9:50,73,sunny,JY,INC,4,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,,pre-flowering,4,0,,Buckeye,158,n,n,10,6,open,y,1,na,,0,<50,0,0,0,na,<50
+7/1/25,9:46,75,raining,7/2/25,9:43,73,sunny,JY,SYR,3,full ,edge,5,25,birdhouse,6,40,10,13,8,25,3,SYR,3,75,5,50,20,0,,,,117,flowering,3,1,,Common milkweed,118,y,y,10,7,control,n,1,"gone, hole in bag, 2 ants in bag",,1000-2000,0,150,0,0,na,1000-2000
+7/1/25,9:46,75,raining,7/2/25,9:43,73,sunny,JY,SYR,3,full ,edge,5,25,birdhouse,6,40,10,13,8,25,3,SYR,3,75,5,50,20,0,,,,117,flowering,3,1,,Common milkweed,118,y,y,10,6,open,y,0,na,,1000-2000,0,150,0,0,na,1000-2000
+7/1/25,9:49,75,raining,7/2/25,9:45,73,sunny,JY,SYR,4,full ,edge,3,30,birdhouse,10,40,15,13,8,25,1,SYR,3,75,5,50,20,0,,,,99,flowering,3,1,,Common milkweed,104,y,y,10,12,control,n,0,"gone, 1 ant in bag",,1000-2000,0,150,0,0,na,1000-2000
+7/1/25,9:49,75,raining,7/2/25,9:45,73,sunny,JY,SYR,4,full ,edge,3,30,birdhouse,10,40,15,13,8,25,1,SYR,3,75,5,50,20,0,,,,99,flowering,3,1,,Common milkweed,104,y,y,10,11,open,y,1,na,,1000-2000,0,150,0,0,na,1000-2000
+7/15/25,11:06,72,cloudy,7/16/25,12:07,80,cloudy,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,133,flowering,4,2,,American beech,177,n,n,10,13,control,y,2,na,,0,0,0,0,0,na,0
+7/15/25,11:06,72,cloudy,7/16/25,12:07,80,cloudy,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,133,flowering,4,2,,American beech,177,n,n,10,11,open,y,0,na,,0,0,0,0,0,na,0
+7/15/25,11:01,72,cloudy,7/16/25,12:05,80,cloudy,JY,INC,5,full ,middle ,8,30,birdhouse,3,40,10,13,8,25,5,INC,3,75,5,50,20,0,,,,71,vegetative,4,1,10:57 pic flowering,Swamp milkweed,78,n,n,10,10,control,y,1,na,,0,0,0,0,0,na,0
+7/15/25,11:01,72,cloudy,7/16/25,12:05,80,cloudy,JY,INC,5,full ,middle ,8,30,birdhouse,3,40,10,13,8,25,5,INC,3,75,5,50,20,0,,,,71,vegetative,4,1,10:57 pic flowering,Swamp milkweed,78,n,n,10,12,open,y,1,na,,0,0,0,0,0,na,0
+7/29/25,10:06,78,sunny,7/30/25,12:54,87,sunny,JY,INC,2,full,edge,4,20,birdhouse,4,40,15,13,8,25,5,"7 INC, 1 SYR",3,75,5,50,20,0,,,,104,fruiting,4,3,,Common milkweed,145,n,n,8,6,control,y,1,na,,0,200-500,0,0,0,na,200-500
+7/29/25,10:06,78,sunny,7/30/25,12:54,87,sunny,JY,INC,2,full,edge,4,20,birdhouse,4,40,15,13,8,25,5,"6 INC, 1 SYR",3,75,5,50,20,0,,,,104,fruiting,4,3,,Common milkweed,145,n,n,8,7,open,n,0,na,,0,200-500,0,0,0,na,200-500
+7/29/25,10:11,78,sunny,7/30/25,12:58,87,sunny,JY,INC,3,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,85,fruiting,2,2,,pic @ 10:10,167,y,n,8,11,control,y,0,na,,0,500-1000,0,10,0,na,500-1000
+7/29/25,10:11,78,sunny,7/30/25,12:58,87,sunny,JY,INC,3,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,85,fruiting,2,2,,pic @ 10:10,167,y,n,8,11,open,n,0,na,,0,500-1000,0,10,0,na,500-1000
+7/29/25,10:17,78,sunny,7/30/25,12:59,87,sunny,JY,SYR,2,partial,edge,1,30,birdhouse,15,45,15,13,8,25,2,SYR,3,75,5,50,20,0,,,,110,fruiting,3,2,,Magnolia,150,y,y,8,9,control,y,1,na,,500-1000,50-200,50,1,0,na,1000-2000
+7/29/25,10:17,78,sunny,7/30/25,12:59,87,sunny,JY,SYR,2,partial,edge,1,30,birdhouse,15,45,15,13,8,25,2,SYR,3,75,5,50,20,0,,,,110,fruiting,3,2,,Magnolia,150,y,y,8,7,open,y,1,na,,500-1000,50-200,50,1,0,na,1000-2000
+7/29/25,10:23,78,sunny,7/30/25,12:53,87,sunny,JY,SYR,3,full ,edge,5,25,birdhouse,6,40,10,13,8,25,3,SYR,3,75,5,50,20,0,,,,112,fruiting,3,0,,Common milkweed,122,n,y,8,8,control,y,1,na,,50-200,<50,25,0,0,na,50-200
+7/29/25,10:23,78,sunny,7/30/25,12:53,87,sunny,JY,SYR,3,full ,edge,5,25,birdhouse,6,40,10,13,8,25,3,SYR,3,75,5,50,20,0,,,,112,fruiting,3,0,,Common milkweed,122,n,y,8,8,open,y,2,na,,50-200,<50,25,0,0,na,50-200
+8/12/25,9:33,75,sunny,8/13/25,9:55,76,raining,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,133,fruiting,3,1,herb robert,Buckeye,137,n,n,7,6,control,n,1,just gone,,0,1000-2000,0,20,0,na,1000-2000
+8/12/25,9:33,75,sunny,8/13/25,9:55,76,raining,JY,INC,1,partial,edge,2,30,birdhouse,15,40,15,13,8,25,4,INC,3,75,5,50,20,0,,,,133,fruiting,3,1,herb robert,Buckeye,137,n,n,7,6,open,y,1,na,,0,1000-2000,0,20,0,na,1000-2000
+8/12/25,9:25,75,sunny,8/13/25,9:51,76,raining,JY,INC,4,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,118,fruiting,4,1,herb robert,Swamp milkweed,139,n,powdery mildew?,7,7,control,y,1,na,,0,>2000,0,200,0,na,>2000
+8/12/25,9:25,75,sunny,8/13/25,9:51,76,raining,JY,INC,4,full ,edge,3,30,birdhouse,8,35,8,13,8,25,4,INC,3,75,5,50,20,0,,,,118,fruiting,4,1,herb robert,Swamp milkweed,139,n,powdery mildew?,7,6,open,n,1,na,,0,>2000,0,200,0,na,>2000
+8/12/25,9:06,74,sunny,8/13/25,9:49,76,raining,JY,SYR,1,partial,edge,6,25,birdhouse,5,40,8,13,8,25,4,SYR,3,75,5,50,20,0,,,,109,fruiting,3,0,na,Common milkweed,132,n,y,7,5,control,y,1,na,,<50,50-200,0,5,0,na,50-200
+8/12/25,9:06,74,sunny,8/13/25,9:49,76,raining,JY,SYR,1,partial,edge,6,25,birdhouse,5,40,8,13,8,25,4,SYR,3,75,5,50,20,0,,,,109,fruiting,3,0,na,Common milkweed,132,n,y,7,6,open,n,0,na,,<50,50-200,0,5,0,na,50-200
+8/12/25,9:16,74,sunny,8/13/25,10:00,76,raining,JY,SYR,5,full,edge,0,25,house,15,40,15,13,8,25,0,na,3,75,5,50,20,0,,,,94,fruiting,4,1,brazilian verbena,Brazilian verbena,141,y,y,7,5,control,y,0,na,,50-200,<50,20,0,0,na,50-200
+8/12/25,9:16,74,sunny,8/13/25,10:00,76,raining,JY,SYR,5,full,edge,0,25,house,15,40,15,13,8,25,0,na,3,75,5,50,20,0,,,,94,fruiting,4,1,brazilian verbena,Brazilian verbena,141,y,y,7,5,open,y,1,na,,50-200,<50,20,0,0,na,50-200
+7/8/25,11:45,80,sunny,7/9/25,11:12,76,cloudy,LL,SYR,1,full ,middle ,1,20,bath,15,10,8,16,7,25,1,SYR,1,20,0,20,0,0,,,,105,pre-flowering,7,1,,Common milkweed,128,n,n,6,10,control ,n,1,y,,<50,0,0,0,0,na,<50
+7/8/25,11:45,80,sunny,7/9/25,11:12,76,cloudy,LL,SYR,1,full ,middle ,1,20,bath,15,10,8,16,7,25,1,SYR,1,20,0,20,0,0,,,,105,pre-flowering,7,1,,Common milkweed,128,n,n,6,5,open,y,1,na,,<50,0,0,0,0,na,<50
+7/8/25,11:47,80,sunny,7/9/25,11:15,76,cloudy,LL,SYR,2,full ,edge,2,20,bath,15,10,10,16,7,25,2,SYR,1,20,0,20,0,0,,,,57,pre-flowering,8,1,,Common milkweed,102,n,n,6,11,control ,y,2,na,,<50,0,0,0,0,na,<50
+7/8/25,11:47,80,sunny,7/9/25,11:15,76,cloudy,LL,SYR,2,full ,edge,2,20,bath,15,10,10,16,7,25,2,SYR,1,20,0,20,0,0,,,,57,pre-flowering,8,1,,Common milkweed,102,n,n,6,9,open,y,0,na,,<50,0,0,0,0,na,<50
+7/22/25,12:33,73,sunny,7/23/25,11:04,74,cloudy,LL,SYR,3,shade,middle ,3,3,bath,10,10,5,16,7,25,0,na,1,20,0,20,0,0,,,,63,vegetative,5,1,,12:33 pic,94,y,n,4,8,control ,y,2,na,,50-200,0,30,0,0,na,50-200
+7/22/25,12:33,73,sunny,7/23/25,11:04,74,cloudy,LL,SYR,3,shade,middle ,3,3,bath,10,10,5,16,7,25,0,na,1,20,0,20,0,0,,,,63,vegetative,5,1,,12:33 pic,94,y,n,4,6,open,y,1,na,,50-200,0,10,0,0,na,50-200
+7/22/25,12:38,73,sunny,7/23/25,11:05,74,cloudy,LL,SYR,4,shade,middle ,8,3,bath,15,5,2,16,7,25,3,SYR,1,20,0,20,0,0,,,,158,vegetative,4,0,,Common milkweed,180,n,n,4,9,control ,y,1,na,,50-200,0,10,0,0,na,50-200
+7/22/25,12:38,73,sunny,7/23/25,11:05,74,cloudy,LL,SYR,4,shade,middle ,8,3,bath,15,5,2,16,7,25,3,SYR,1,20,0,20,0,0,,,,158,vegetative,4,0,,Common milkweed,180,n,n,4,7,open,n,0,na,,50-200,0,10,0,0,na,50-200
+8/5/25,12:05,81,sunny,8/6/25,11:21,75,cloudy,LL,SYR,1,full ,middle ,1,20,bath,15,10,8,16,7,25,1,SYR,1,20,0,20,0,0,,,,112,fruiting,1,0,,Grass,28,y,n,8,11,control,y,2,na,,1000-2000,0,100,0,0,na,1000-2000
+8/5/25,12:05,81,sunny,8/6/25,11:21,75,cloudy,LL,SYR,1,full ,middle ,1,20,bath,15,10,8,16,7,25,1,SYR,1,20,0,20,0,0,,,,112,fruiting,1,0,,Grass,28,y,n,8,11,open,n,0,na,,1000-2000,0,100,0,0,na,1000-2000
+8/5/25,12:05,81,sunny,8/6/25,11:17,75,cloudy,LL,SYR,5,full ,edge,0,10,bath,8,10,10,16,7,25,0,na,1,20,0,20,0,0,,,,142,fruiting,5,2,,Common milkweed,163,y,n,8,12,control,y,1,na,,0,>2000,0,200,0,na,>2000
+8/5/25,12:05,81,sunny,8/6/25,11:17,75,cloudy,LL,SYR,5,full ,edge,0,10,bath,8,10,10,16,7,25,0,na,1,20,0,20,0,0,,,,142,fruiting,5,2,,Common milkweed,163,y,n,8,11,open,n,0,na,,0,>2000,0,200,0,na,>2000
+7/1/25,11:09,76,cloudy,7/2/25,10:14,75,sunny,LPN,SYR,1,shade,middle,3,na,na,50,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,108,pre-flowering,8,0,,Common milkweed,93,n,n,10,9,control,y,1,na,,<50,0,0,0,0,na,<50
+7/1/25,11:09,76,cloudy,7/2/25,10:14,75,sunny,LPN,SYR,1,shade,middle,2,na,na,50,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,108,pre-flowering,8,0,,Common milkweed,93,n,n,10,6,open,y,0,na,,<50,0,0,0,0,na,<50
+7/1/25,11:13,76,cloudy,7/2/25,10:15,75,sunny,LPN,SYR,2,shade,middle,1,na,na,50,150,15,14,6,25,2,SYR,1,100,0,100,0,0,,,,119,flowering,9,1,,Common milkweed,127,n,n,10,11,control,y,1,na,,0,0,0,0,0,na,0
+7/1/25,11:13,76,cloudy,7/2/25,10:15,75,sunny,LPN,SYR,2,shade,middle,0,na,na,50,150,15,14,6,25,2,SYR,1,100,0,100,0,0,,,,119,flowering,9,1,,Common milkweed,127,n,n,10,10,open,y,0,na,,0,0,0,0,0,na,0
+7/29/25,11:49,78,sunny,7/30/25,13:33,88,sunny,LPN,SYR,3,shade,middle ,2,6,pond,40,150,6,14,6,25,2,SYR,1,100,0,100,0,0,,,,103,fruiting,3,0,,Blackberry,133,n,n,8,9,control,y,2,na,,<50,0,5,0,0,na,<50
+7/29/25,11:49,78,sunny,7/30/25,13:33,88,sunny,LPN,SYR,3,shade,middle ,2,6,pond,40,150,6,14,6,25,2,SYR,1,100,0,100,0,0,,,,103,fruiting,3,0,,Blackberry,133,n,n,8,9,open,y,1,na,,<50,0,5,0,0,na,<50
+7/29/25,11:53,78,sunny,7/30/25,13:39,88,sunny,LPN,SYR,4,partial,edge,0,5,pond,30,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,70,vegetative,7,1,,Clover,37,n,n,8,8,control,n,0,maybe? Method of death unclear,,<50,0,1,0,0,na,<50
+7/29/25,11:53,78,sunny,7/30/25,13:39,88,sunny,LPN,SYR,4,partial,edge,0,5,pond,30,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,70,vegetative,7,1,,Clover,37,n,n,8,7,open,n,0,na,y (not obviously eaten?),<50,0,1,0,0,na,<50
+8/12/25,10:18,79,sunny,8/13/25,10:28,78,cloudy,LPN,SYR,1,shade,middle,5,na,na,50,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,89,fruiting,4,0,na,Japanese stillgrass,66,n,n,7,5,control,n,0,"n, dead next to latex",,50-200,0,5,0,0,na,50-200
+8/12/25,10:18,79,sunny,8/13/25,10:28,78,cloudy,LPN,SYR,1,shade,middle,4,na,na,50,150,10,14,6,25,0,na,1,100,0,100,0,0,,,,89,fruiting,4,0,na,Japanese stillgrass,66,n,n,7,7,open,y,1,na,,50-200,0,5,0,0,na,50-200
+8/12/25,10:25,79,sunny,8/13/25,10:26,78,cloudy,LPN,SYR,5,shade,edge,1,20,pond,40,150,15,14,6,25,1,SYR,1,100,0,100,0,0,,,,87,fruiting,4,0,na,Common milkweed,116,n,n,7,10,control,y,1,na,,50-200,0,10,0,0,na,50-200
+8/12/25,10:25,79,sunny,8/13/25,10:26,78,cloudy,LPN,SYR,5,shade,edge,1,20,pond,40,150,15,14,6,25,1,SYR,1,100,0,100,0,0,,,,87,fruiting,4,0,na,Common milkweed,116,n,n,7,9,open,n,0,na,,50-200,0,10,0,0,na,50-200
+7/1/25,10:50,76,cloudy,7/2/25,10:04,74,sunny,LPO,SYR,1,shade,edge,4,na,na,8,8,5,,,,,,1,,0,,0,0,,,,51,vegetative,5,0,,Grass,24,n,n,10,5,control,y,1,na,,0,0,0,0,0,na,0
+7/1/25,10:50,76,cloudy,7/2/25,10:04,74,sunny,LPO,SYR,1,shade,edge,3,na,na,8,8,5,,,,,,1,,0,,0,0,,,,51,vegetative,5,0,,Grass,24,n,n,10,5,open,y,0,na,,0,0,0,0,0,na,0
+7/1/25,10:56,76,cloudy,7/2/25,10:06,74,sunny,LPO,SYR,2,shade,edge,4,na,na,8,8,5,,,,,,1,,0,,0,0,,,,77,vegetative,6,1,,Yarrow,88,n,n,10,9,control,n,1,n,,0,0,0,0,0,na,0
+7/1/25,10:56,76,cloudy,7/2/25,10:06,74,sunny,LPO,SYR,2,shade,edge,3,na,na,8,8,5,,,,,,1,,0,,0,0,,,,77,vegetative,6,1,,Yarrow,88,n,n,10,5,open,n,2,na,,0,0,0,0,0,na,0
+7/15/25,11:53,74,cloudy,7/16/25,12:30,82,cloudy,LPO,SYR,3,shade,edge,1,25,feeder,5,10,10,,,,,,1,,0,,0,0,,,,78,vegetative,6,1,,Wild cherry,115,n,n,13,7,control,y,0,na,,0,0,0,0,0,na,0
+7/15/25,11:53,74,cloudy,7/16/25,12:30,82,cloudy,LPO,SYR,3,shade,edge,1,25,feeder,5,10,10,,,,,,1,,0,,0,0,,,,78,vegetative,6,1,,Wild cherry,115,n,n,13,13,open,y,1,na,,0,0,0,0,0,na,0
+7/29/25,11:20,79,sunny,7/30/25,13:23,88,sunny,LPO,SYR,4,shade,middle ,7,na,na,2,10,7,,,,,,1,,0,,0,0,,,,75,vegatative,6,3,,Yarrow,60,n,n,8,5,control,n,0,n,,0,0,0,0,0,na,0
+7/29/25,11:20,79,sunny,7/30/25,13:23,88,sunny,LPO,SYR,4,shade,middle ,6,na,na,2,10,7,,,,,,1,,0,,0,0,,,,75,vegatative,6,3,,Yarrow,60,n,n,8,7,open,n,1,na,,0,0,0,0,0,na,0
+7/29/25,11:22,79,sunny,7/30/25,13:25,88,sunny,LPO,SYR,5,shade,edge,3,na,na,5,10,10,,,,,,1,,0,,0,0,,,,71,vegetative,11,3,,Grass,56,n,n,8,5,control,n,0,n,,<50,<50,0,0,0,na,50-200
+7/29/25,11:22,79,sunny,7/30/25,13:25,88,sunny,LPO,SYR,5,shade,edge,2,na,na,5,10,10,,,,,,1,,0,,0,0,,,,71,vegetative,11,3,,Grass,56,n,n,8,5,open,n,0,na,,<50,<50,0,0,0,na,50-200
+7/15/25,12:40,80,cloudy,7/16/25,13:06,83,cloudy,MHA,INC,1,partial,middle ,2,30,bath,1,30,30,11,8,75,9,INC,2,70,0,10,60,0,,,,121,flowering,5,1,,Swamp milkweed,92,y,n,10,10,control,y,1,na,,0,500-1000,0,0,0,na,500-1000
+7/15/25,12:40,80,cloudy,7/16/25,13:06,83,cloudy,MHA,INC,1,partial,middle ,2,30,bath,1,30,30,11,8,75,9,INC,2,70,0,10,60,0,,,,121,flowering,5,1,,Swamp milkweed,92,y,n,10,12,open,y,1,na,,0,500-1000,0,0,0,na,500-1000
+7/15/25,12:45,80,cloudy,7/16/25,13:07,83,cloudy,MHA,INC,2,full ,edge,1,25,bath,2,35,25,11,8,75,2,INC,2,70,0,10,60,0,,,,97,pre-flowering,6,3,,Swamp milkweed,95,n,n,10,14,control,y,1,na,,0,0,0,0,0,na,0
+7/15/25,12:45,80,cloudy,7/16/25,13:07,83,cloudy,MHA,INC,2,full ,edge,1,25,bath,2,35,25,11,8,75,2,INC,2,70,0,10,60,0,,,,97,pre-flowering,6,3,,Swamp milkweed,95,n,n,10,12,open,n,0,na,,0,0,0,0,0,na,0
+7/29/25,13:32,90,sunny,7/30/25,14:14,89,sunny,MHA,INC,3,partial,middle ,2,25,bath,1,30,27,11,8,75,5,INC,2,70,0,10,60,0,,,,77,flowering,4,1,,Boneset,132,y,n,8,10,control,y,2,na,,0,500-1000,0,20,0,na,500-1000
+7/29/25,13:32,90,sunny,7/30/25,14:14,89,sunny,MHA,INC,3,partial,middle ,2,25,bath,1,30,27,11,8,75,5,INC,2,70,0,10,60,0,,,,77,flowering,4,1,,Boneset,132,y,n,8,10,open,y,2,na,,0,500-1000,0,20,0,na,500-1000
+7/29/25,13:36,90,sunny,7/30/25,14:15,89,sunny,MHA,INC,4,full ,middle ,1,20,bath,4,35,20,11,8,75,1,INC,2,70,0,10,60,0,,,,38,vegetative,2,1,,Coneflower,78,y,n,8,10,control,y,2,na,,0,200-500,0,5,0,na,200-500
+7/29/25,13:36,90,sunny,7/30/25,14:15,89,sunny,MHA,INC,4,full ,middle ,1,20,bath,4,35,20,11,8,75,1,INC,2,70,0,10,60,0,,,,38,vegetative,2,1,,Coneflower,78,y,n,8,11,open,y,0,na,,0,200-500,0,5,0,na,200-500
+8/12/25,11:02,81,sunny,8/13/25,10:58,79,cloudy,MHA,INC,1,partial,middle ,2,30,bath,1,30,30,11,8,75,9,INC,2,70,0,10,60,0,,,,118,post-flowering,3,1,swamp milkweed,Swamp milkweed,97,y,powdery mildew?,7,6,control,n,0,maybe? Probably,,0,500-1000,0,5,0,na,500-1000
+8/12/25,11:02,81,sunny,8/13/25,10:58,79,cloudy,MHA,INC,1,partial,middle ,2,30,bath,1,30,30,11,8,75,9,INC,2,70,0,10,60,0,,,,118,post-flowering,3,1,swamp milkweed,Swamp milkweed,97,y,powdery mildew?,7,6,open,y,0,na,,0,500-1000,0,5,0,na,500-1000
+8/12/25,11:00,81,sunny,8/13/25,11:01,79,cloudy,MHA,INC,5,shade,edge,1,20,bath,2,30,20,11,8,75,25,INC,2,70,0,10,60,0,,,,47,vegetative,6,1,black-eyed susan,Black-eyed susan,87,y,n,7,6,control,y,2,na,,0,50-200,0,5,0,na,50-200
+8/12/25,11:00,81,sunny,8/13/25,11:01,79,cloudy,MHA,INC,5,shade,edge,1,20,bath,2,30,20,11,8,75,25,INC,2,70,0,10,60,0,,,,47,vegetative,6,1,black-eyed susan,Black-eyed susan,87,y,n,7,6,open,y,1,na,,0,50-200,0,5,0,na,50-200
+8/12/25,11:14,78,sunny,8/13/25,10:54,79,cloudy,MHA,SYR,1,full,middle,3,25,bath,1,25,20,6,5,75,2,SYR,2,70,0,10,60,0,,,,128,fruiting,2,1,goldenrod,Goldenrod,155,n,n,7,5,control,n,1,"n, dead next to latex",,<50,0,5,0,0,na,<50
+8/12/25,11:14,78,sunny,8/13/25,10:54,79,cloudy,MHA,SYR,1,full,middle,3,25,bath,1,25,20,6,5,75,2,SYR,2,70,0,10,60,0,,,,128,fruiting,2,1,goldenrod,Goldenrod,155,n,n,7,5,open,n,0,na,,<50,0,5,0,0,na,<50
+8/12/25,11:19,78,sunny,8/13/25,11:05,79,cloudy,MHA,SYR,2,full,middle,2,30,bath,10,20,10,6,5,75,1,SYR,2,70,0,10,60,0,,,,85,vegetative,5,1,trefoil,Goldenrod,144,n,n,7,5,control,n,0,n,,0,50-200,0,0,0,na,50-200
+8/12/25,11:19,78,sunny,8/13/25,10:56,79,cloudy,MHA,SYR,2,full,middle,2,30,bath,10,20,10,6,5,75,1,SYR,2,70,0,10,60,0,,,,85,vegetative,5,1,trefoil,Goldenrod,144,n,n,7,5,open,n,0,na,,0,50-200,0,0,0,na,50-200
+7/8/25,9:45,75,sunny,7/9/25,9:48,74,cloudy,MHO,INC,1,shade,edge,3,na,na,25,60,10,8,3,75,1,INC,3,51,0,30,20,1,,,,57,pre-flowering,1,0,,Swamp milkweed,77,n,n,6,11,control ,y,1,na,,0,0,0,0,0,na,0
+7/8/25,9:45,75,sunny,7/9/25,9:48,74,cloudy,MHO,INC,1,shade,edge,2,na,na,25,60,10,8,3,75,1,INC,3,51,0,30,20,1,,,,57,pre-flowering,1,0,,Swamp milkweed,77,n,n,6,7,open,y,2,na,,0,0,0,0,0,na,0
+7/8/25,9:50,75,sunny,7/9/25,9:48,74,cloudy,MHO,INC,2,shade,edge,3,na,na,25,60,10,8,3,75,4,INC,3,51,0,30,20,1,,,,88,pre-flowering,1,0,,Swamp milkweed,108,n,n,6,11,control ,y,2,na,,0,0,0,0,0,na,0
+7/8/25,9:50,75,sunny,7/9/25,9:48,74,cloudy,MHO,INC,2,shade,edge,2,na,na,25,60,10,8,3,75,4,INC,3,51,0,30,20,1,,,,88,pre-flowering,1,0,,Swamp milkweed,108,n,n,6,13,open,y,0,na,,0,0,0,0,0,na,0
+7/8/25,9:58,75,sunny,7/9/25,9:53,74,cloudy,MHO,SYR,1,shade,edge,2,na,na,30,10,10,5,3,25,0,na,3,51,0,30,20,1,,,,87,pre-flowering,5,0,,Japanese stillgrass,64,n,n,6,9,control,y,1,na,,<50,0,5,0,0,na,<50
+7/8/25,9:58,75,sunny,7/9/25,9:53,74,cloudy,MHO,SYR,1,shade,edge,1,na,na,30,10,10,5,3,25,0,na,3,51,0,30,20,1,,,,87,pre-flowering,5,0,,Japanese stillgrass,64,n,n,6,10,open,n,0,na,,<50,0,5,0,0,na,<50
+7/8/25,10:05,75,sunny,7/9/25,9:53,74,cloudy,MHO,SYR,2,shade,middle,5,na,na,35,6,10,5,3,25,2,SYR,3,51,0,30,20,1,,,,151,pre-flowering,7,0,,Black raspberry,55,n,n,6,7,control ,y,1,na,,200-500,0,10,0,0,na,200-500
+7/8/25,10:05,75,sunny,7/9/25,9:53,74,cloudy,MHO,SYR,2,shade,middle,4,na,na,35,6,10,5,3,25,2,SYR,3,51,0,30,20,1,,,,151,pre-flowering,7,0,,Black raspberry,55,n,n,6,7,open,n,0,na,,200-500,0,10,0,0,na,200-500
+7/22/25,10:00,67,sunny,7/23/25,9:42,71,cloudy,MHO,INC,3,shade,middle ,4,na,na,30,80,5,8,3,75,10,INC,3,51,0,30,20,1,,,,70,pre-flowering,4,0,,Tropical milkweed ,65,n,n,4,4,control ,y,4,na,,0,0,0,0,0,na,0
+7/22/25,10:00,67,sunny,7/23/25,9:42,71,cloudy,MHO,INC,3,shade,middle ,3,na,na,30,80,5,8,3,75,10,INC,3,51,0,30,20,1,,,,70,pre-flowering,4,0,,Tropical milkweed ,65,n,n,4,8,open,y,0,na,,0,0,0,0,0,na,0
+7/22/25,10:02,67,sunny,7/23/25,9:44,71,cloudy,MHO,INC,4,shade,edge,5,na,na,30,80,5,8,3,75,10,INC,3,51,0,30,20,1,,,,38,vegetative,3,0,,Swamp milkweed,59,n,n,4,7,control ,y,1,na,,0,0,0,0,0,na,0
+7/22/25,10:02,67,sunny,7/23/25,9:44,71,cloudy,MHO,INC,4,shade,edge,4,na,na,30,80,5,8,3,75,10,INC,3,51,0,30,20,1,,,,38,vegetative,3,0,,Swamp milkweed,59,n,n,4,7,open,y,0,na,,0,0,0,0,0,na,0
+7/22/25,10:13,67,sunny,7/23/25,9:49,71,cloudy,MHO,SYR,3,partial,middle ,3,na,na,30,10,10,5,3,25,1,SYR,3,51,0,30,20,1,,,,117,flowering,2,0,,Common milkweed,65,n,n,4,9,control ,y,1,na,,<50,0,1,0,0,na,<50
+7/22/25,10:13,67,sunny,7/23/25,9:49,71,cloudy,MHO,SYR,3,partial,middle ,2,na,na,30,10,10,5,3,25,1,SYR,3,51,0,30,20,1,,,,117,flowering,2,0,,Common milkweed,65,n,n,4,8,open,n,0,na,,<50,0,1,0,0,na,<50
+7/22/25,10:15,67,sunny,7/23/25,9:51,71,cloudy,MHO,SYR,4,partial,middle ,6,na,na,35,10,15,5,3,25,0,na,3,51,0,30,20,1,,,,104,flowering,6,0,,Raspberry,102,n,n,4,6,control ,y,1,na,,50-200,0,2,0,0,na,50-200
+7/22/25,10:15,67,sunny,7/23/25,9:51,71,cloudy,MHO,SYR,4,partial,middle ,5,na,na,35,10,15,5,3,25,0,na,3,51,0,30,20,1,,,,104,flowering,6,0,,Raspberry,102,n,n,4,7,open,y,1,na,,50-200,0,2,0,0,na,50-200
+8/5/25,9:50,70,sunny,8/6/25,10:09,72,cloudy,MHO,INC,1,shade,edge,5,na,na,25,60,10,8,3,75,1,INC,3,51,0,30,20,1,,,,81,flowering,1,1,,Swamp milkweed,108,n,n,8,10,control,y,4,na,,0,50-200,0,0,0,na,50-200
+8/5/25,9:50,70,sunny,8/6/25,10:09,72,cloudy,MHO,INC,1,shade,edge,4,na,na,25,60,10,8,3,75,1,INC,3,51,0,30,20,1,,,,81,flowering,1,1,,Swamp milkweed,108,n,n,8,12,open,y,0,na,,0,50-200,0,0,0,na,50-200
+8/5/25,9:53,70,sunny,8/6/25,10:11,72,cloudy,MHO,INC,5,shade,edge,5,na,na,25,75,5,8,3,75,3,INC,3,51,0,30,20,1,,,,32,vegetative,3,3,,Swamp milkweed,32,n,n,8,8,control,y,2,na,,0,0,0,0,0,na,0
+8/5/25,9:53,70,sunny,8/6/25,10:11,72,cloudy,MHO,INC,5,shade,edge,4,na,na,25,75,5,8,3,75,3,INC,3,51,0,30,20,1,,,,32,vegetative,3,3,,Swamp milkweed,32,n,n,8,6,open,n,0,na,,0,0,0,0,0,na,0
+8/5/25,9:59,70,sunny,8/6/25,10:14,72,cloudy,MHO,SYR,1,shade,edge,4,na,na,30,10,10,5,3,25,0,na,3,51,0,30,20,1,,,,98,post-flowering,2,0,,Grass,80,n,n,8,11,control,y,1,na,,<50,50-200,10,0,0,na,50-200
+8/5/25,9:59,70,sunny,8/6/25,10:14,72,cloudy,MHO,SYR,1,shade,edge,3,na,na,30,10,10,5,3,25,0,na,3,51,0,30,20,1,,,,98,post-flowering,2,0,,Grass,80,n,n,8,10,open,n,0,na,,<50,50-200,10,0,0,na,50-200
+8/5/25,10:02,70,sunny,8/6/25,10:16,72,cloudy,MHO,SYR,5,partial,middle ,11,na,na,40,3,10,5,3,25,0,na,3,51,0,30,20,1,,,,157,post-flowering,3,0,,Grass,81,n,n,8,10,control,y,0,na,,<50,0,0,0,0,na,<50
+8/5/25,10:02,70,sunny,8/6/25,10:16,72,cloudy,MHO,SYR,5,partial,middle ,10,na,na,40,3,10,5,3,25,0,na,3,51,0,30,20,1,,,,157,post-flowering,3,0,,Grass,81,n,n,8,11,open,y,0,na,,<50,0,0,0,0,na,<50
+7/1/25,10:30,76,cloudy,7/2/25,10:26,75,sunny,SHA,SYR,1,full,middle,0,3,birdhouse,15,40,15,9,6,50,1,SYR,1,80,0,80,0,0,,,,104,pre-flowering,7,1,,Common milkweed,129,n,n,10,8,control,y,2,na,,<50,0,0,0,0,na,<50
+7/1/25,10:30,76,cloudy,7/2/25,10:26,75,sunny,SHA,SYR,1,full,middle,0,3,birdhouse,15,40,15,9,6,50,1,SYR,1,80,0,80,0,0,,,,104,pre-flowering,7,1,,Common milkweed,129,n,n,10,8,open,y,0,na,,<50,0,0,0,0,na,<50
+7/1/25,10:34,76,cloudy,7/2/25,10:25,75,sunny,SHA,SYR,2,full,middle,0,10,feeder,8,20,15,9,6,50,3,SYR,1,80,0,80,0,0,,,,65,vegetative,7,0,,Common milkweed,86,n,n,10,8,control,y,2,na,,<50,0,0,0,0,na,<50
+7/1/25,10:34,76,cloudy,7/2/25,10:25,75,sunny,SHA,SYR,2,full,middle,0,10,feeder,8,20,15,9,6,50,3,SYR,1,80,0,80,0,0,,,,65,vegetative,7,0,,Common milkweed,86,n,n,10,10,open,y,0,na,,<50,0,0,0,0,na,<50
+7/15/25,11:38,75,cloudy,7/16/25,12:25,82,cloudy,SHA,SYR,3,full,middle,3,3,bath,10,20,15,9,6,50,2,SYR,1,80,0,80,0,0,,,,85,pre-flowering,8,1,,Common milkweed,108,n,n,10,9,control ,y,2,na,,<50,0,0,0,0,na,<50
+7/15/25,11:38,75,cloudy,7/16/25,12:25,82,cloudy,SHA,SYR,3,full,middle,3,3,bath,10,20,15,9,6,50,2,SYR,1,80,0,80,0,0,,,,85,pre-flowering,8,1,,Common milkweed,108,n,n,10,10,open,y,0,na,,<50,0,0,0,0,na,<50
+7/15/25,11:42,75,cloudy,7/16/25,12:22,82,cloudy,SHA,SYR,4,shade,edge,8,10,birdhouse,3,20,10,9,6,50,2,SYR,1,80,0,80,0,0,,,,186,fruiting,5,0,,Common milkweed,192,n,n,10,6,control ,n,0,n,,50-200,0,0,0,0,na,50-200
+7/15/25,11:42,75,cloudy,7/16/25,12:22,82,cloudy,SHA,SYR,4,shade,edge,8,10,birdhouse,3,20,10,9,6,50,2,SYR,1,80,0,80,0,0,,,,186,fruiting,5,0,,Common milkweed,192,n,n,10,5,open,y,1,na,,50-200,0,0,0,0,na,50-200
+7/29/25,10:56,78,sunny,7/30/25,13:14,88,sunny,SHA,SYR,1,full,middle,0,3,birdhouse,15,40,15,9,6,50,1,SYR,1,80,0,80,0,0,,,,38,fruiting,8,1,,Dandelion,19,n,n,8,6,control,n,0,y ,,<50,0,0,0,0,na,<50
+7/29/25,10:56,78,sunny,7/30/25,13:14,88,sunny,SHA,SYR,1,full,middle,0,3,birdhouse,15,40,15,9,6,50,1,SYR,1,80,0,80,0,0,,,,38,fruiting,8,1,,Dandelion,19,n,n,8,9,open,n,0,na,,<50,0,0,0,0,na,<50
+7/29/25,10:51,78,sunny,7/30/25,13:16,88,sunny,SHA,SYR,5,full,edge,1,10,birdhouse,3,30,20,9,6,50,3,SYR,1,80,0,80,0,0,,,,91,vegetative,7,1,,Honeysuckle,205,n,n,8,6,control,y,1,na,,<50,0,0,0,0,na,<50
+7/29/25,10:51,78,sunny,7/30/25,13:16,88,sunny,SHA,SYR,5,full,edge,1,10,birdhouse,3,30,20,9,6,50,3,SYR,1,80,0,80,0,0,,,,91,vegetative,7,1,,Honeysuckle,205,n,n,8,9,open,n,0,na,,<50,0,0,0,0,na,<50
+8/12/25,9:54,78,sunny,8/13/25,10:11,76,cloudy,SHA,SYR,2,full,middle,0,10,feeder,8,20,15,9,6,50,3,SYR,1,80,0,80,0,0,,,,72,vegetative,7,3,"senna, tickseed, fleabane",Common milkweed,126,n,n,7,6,control,n,0,"unclear, disappeared",,0,<50,0,0,0,na,<50
+8/12/25,9:54,78,sunny,8/13/25,10:11,76,cloudy,SHA,SYR,2,full,middle,0,10,feeder,8,20,15,9,6,50,3,SYR,1,80,0,80,0,0,,,,72,vegetative,7,3,"senna, tickseed, fleabane",Common milkweed,126,n,n,7,6,open,n,0,na,,0,<50,0,0,0,na,<50
+8/12/25,10:01,78,sunny,8/13/25,10:17,76,cloudy,SHA,SYR,3,full,middle,3,3,bath,10,20,15,9,6,50,2,SYR,1,80,0,80,0,0,,,,136,post-flowering,8,1,tomato,Common milkweed,208,n,n,7,5,control,n,0,n,,0,1000-2000,0,50,0,na,1000-2000
+8/12/25,10:01,78,sunny,8/13/25,10:17,76,cloudy,SHA,SYR,3,full,middle,3,3,bath,10,20,15,9,6,50,2,SYR,1,80,0,80,0,0,,,,136,post-flowering,8,1,tomato,Common milkweed,208,n,n,7,6,open,y,1,na,,0,1000-2000,0,50,0,na,1000-2000
+7/1/25,12:44,78,cloudy,7/2/25,11:29,77,sunny,SHE,INC,1,partial,edge,21,na,na,15,40,10,13,9,50,0,na,3,110,5,100,5,0,,,,55,pre-flowering,5,1,,Cilantro,76,n,n,10,11,control,y,1,na,,0,0,0,0,0,na,0
+7/1/25,12:44,78,cloudy,7/2/25,11:29,77,sunny,SHE,INC,1,partial,edge,20,na,na,15,40,10,13,9,50,0,na,3,110,5,100,5,0,,,,55,pre-flowering,5,1,,Cilantro,76,n,n,10,10,open,y,1,na,,0,0,0,0,0,na,0
+7/15/25,13:43,80,cloudy,7/16/25,13:19,83,cloudy,SHE,INC,2,shade,edge,2,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,41,vegetative,7,0,,Grass,52,n,n,10,10,control ,y,2,na,,0,0,0,0,0,na,0
+7/15/25,13:43,80,cloudy,7/16/25,13:19,83,cloudy,SHE,INC,2,shade,edge,1,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,41,vegetative,7,0,,Grass,52,n,n,10,12,open,n,0,na,,0,0,0,0,0,na,0
+7/15/25,13:48,80,cloudy,7/16/25,13:20,83,cloudy,SHE,INC,3,partial,middle ,5,na,na,45,55,8,13,9,50,1,SYR,3,110,5,100,5,0,,,,74,pre-flowering,9,0,,Dogbane,87,n,n,10,8,control ,y,2,na,,0,0,0,0,0,na,0
+7/15/25,13:48,80,cloudy,7/16/25,13:20,83,cloudy,SHE,INC,3,partial,middle ,4,na,na,45,55,8,13,9,50,1,SYR,3,110,5,100,5,0,,,,74,pre-flowering,9,0,,Dogbane,87,n,n,10,11,open,n,0,na,y,0,0,0,0,0,na,0
+7/29/25,13:04,84,sunny,7/30/25,14:28,89,sunny,SHE,INC,1,partial,edge,23,na,na,15,40,10,13,9,50,0,na,3,110,5,100,5,0,,,,72,flowering,3,0,,Cilantro,82,n,n,8,9,control,n,0,y ,,0,0,0,0,0,na,0
+7/29/25,13:04,84,sunny,7/30/25,14:28,89,sunny,SHE,INC,1,partial,edge,22,na,na,15,40,10,13,9,50,0,na,3,110,5,100,5,0,,,,72,flowering,3,0,,Cilantro,82,n,n,8,7,open,y,1,na,,0,0,0,0,0,na,0
+7/29/25,12:58,84,sunny,7/30/25,14:25,89,sunny,SHE,INC,2,shade,edge,4,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,45,vegetative,9,1,,Grass,52,n,n,8,6,control,y,0,na,,0,0,0,0,0,na,0
+7/29/25,12:58,84,sunny,7/30/25,14:25,89,sunny,SHE,INC,2,shade,edge,3,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,45,vegetative,9,1,,Grass,52,n,n,8,9,open,n,0,na,,0,0,0,0,0,na,0
+8/12/25,12:11,84,sunny,8/13/25,11:19,80,raining,SHE,INC,2,shade,edge,6,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,45,vegetative,6,2,"woodsorrel, tickseed",Grass,69,n,n,7,7,control,n,0,gone,,0,0,0,0,0,na,0
+8/12/25,12:11,84,sunny,8/13/25,11:19,80,raining,SHE,INC,2,shade,edge,5,na,na,40,50,8,13,9,50,0,na,3,110,5,100,5,0,,,,45,vegetative,6,2,"woodsorrel, tickseed",Grass,69,n,n,7,6,open,n,0,na,,0,0,0,0,0,na,0
+8/12/25,12:15,84,sunny,8/13/25,11:21,80,raining,SHE,INC,3,partial,middle ,7,na,na,45,55,8,13,9,50,1,SYR,3,110,5,100,5,0,,,,74,post-flowering,7,2,"black-eyed susan, geranium",Dogbane,85,n,n,7,8,control,y,0,na,,0,0,0,0,0,na,0
+8/12/25,12:15,84,sunny,8/13/25,11:21,80,raining,SHE,INC,3,partial,middle ,6,na,na,45,55,8,13,9,50,1,SYR,3,110,5,100,5,0,,,,74,post-flowering,7,2,"black-eyed susan, geranium",Dogbane,85,n,n,7,6,open,n,0,na,,0,0,0,0,0,na,0
+8/12/25,12:23,84,sunny,8/13/25,11:14,80,raining,SHE,SYR,1,partial,middle,4,na,na,40,80,6,13,9,50,0,na,3,110,5,100,5,0,,,,149,fruiting,4,1,geranium,Common milkweed,100,n,n,7,5,control,y,1,na,,<50,0,0,0,0,na,<50
+8/12/25,12:23,84,sunny,8/13/25,11:14,80,raining,SHE,SYR,1,partial,middle,3,na,na,40,80,6,13,9,50,0,na,3,110,5,100,5,0,,,,149,fruiting,4,1,geranium,Common milkweed,100,n,n,7,8,open,n,0,na,,<50,0,0,0,0,na,<50
+8/12/25,12:19,84,sunny,8/13/25,11:22,80,raining,SHE,SYR,2,full,edge,2,na,house,40,90,10,13,9,50,2,SYR,3,110,5,100,5,0,,,,90,vegetative,6,1,geranium,Grass,75,n,n,7,5,control,y,0,na,,<50,0,0,0,0,na,<50
+8/12/25,12:19,84,sunny,8/13/25,11:22,80,raining,SHE,SYR,2,full,edge,1,na,house,40,90,10,13,9,50,2,SYR,3,110,5,100,5,0,,,,90,vegetative,6,1,geranium,Grass,75,n,n,7,5,open,y,0,na,,<50,0,0,0,0,na,<50
+7/1/25,11:41,77,cloudy,7/2/25,11:07,76,sunny,SM,INC,1,full,edge,5,30,birdhouse,20,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,80,flowering,8,2,,Swamp milkweed,96,n,n,10,10,control,n,1,"y, SSB thru bag",,0,0,0,0,0,na,0
+7/1/25,11:41,77,cloudy,7/2/25,11:07,76,sunny,SM,INC,1,full,edge,5,30,birdhouse,20,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,80,flowering,8,2,,Swamp milkweed,96,n,n,10,9,open,n,0,na,,0,0,0,0,0,na,0
+7/1/25,11:47,77,cloudy,7/2/25,11:11,76,sunny,SM,INC,2,full,middle,4,20,birdhouse,2,30,20,16,12,50,0,na,2,20,5,0,15,0,,,,82,vegetative,5,0,,Iris,67,n,n,10,9,control,y,2,na,,0,0,0,0,0,na,0
+7/1/25,11:47,77,cloudy,7/2/25,11:11,76,sunny,SM,INC,2,full,middle,4,20,birdhouse,2,30,20,16,12,50,0,na,2,20,5,0,15,0,,,,82,vegetative,5,0,,Iris,67,n,n,10,10,open,y,3,na,,0,0,0,0,0,na,0
+7/15/25,14:23,82,cloudy,7/16/25,13:42,83,sunny,SM,INC,3,shade,middle ,3,15,birdhouse,3,20,20,16,12,50,0,na,2,20,5,0,15,0,,,,122,flowering,7,2,,Purple coneflower,138,n,n,10,9,control,n,0,n,,0,0,0,0,0,na,0
+7/15/25,14:23,82,cloudy,7/16/25,13:42,83,sunny,SM,INC,3,shade,middle ,3,15,birdhouse,3,20,20,16,12,50,0,na,2,20,5,0,15,0,,,,122,flowering,7,2,,Purple coneflower,138,n,n,13,16,open,y,0,na,,0,0,0,0,0,na,0
+7/15/25,14:29,82,cloudy,7/16/25,13:45,83,sunny,SM,INC,4,full ,middle ,4,30,birdhouse,15,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,65,fruiting,12,2,,Swamp milkweed,104,n,n,10,21,control,n,0,y,,0,0,0,0,0,na,0
+7/15/25,14:29,82,cloudy,7/16/25,13:45,83,sunny,SM,INC,4,full ,middle ,4,30,birdhouse,15,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,65,fruiting,12,2,,Swamp milkweed,104,n,n,10,19,open,y,0,na,,0,0,0,0,0,na,0
+7/29/25,14:35,91,sunny,7/30/25,14:49,90,sunny,SM,INC,1,full,edge,5,30,birdhouse,20,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,89,fruiting,7,2,,Swamp milkweed,105,n,n,8,10,control,y,1,na,,0,0,0,0,0,na,0
+7/29/25,14:35,91,sunny,7/30/25,14:49,90,sunny,SM,INC,1,full,edge,5,30,birdhouse,20,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,89,fruiting,7,2,,Swamp milkweed,105,n,n,8,10,open,y,0,na,,0,0,0,0,0,na,0
+7/29/25,14:30,91,sunny,7/30/25,14:47,90,sunny,SM,INC,5,partial,middle ,2,20,birdhouse,4,20,20,16,12,50,0,na,2,20,5,0,15,0,,,,42,vegetative,8,3,,Beebalm,77,n,n,8,10,control,y,1,na,,0,0,0,0,0,na,0
+7/29/25,14:30,91,sunny,7/30/25,14:47,90,sunny,SM,INC,5,partial,middle ,2,20,birdhouse,4,20,20,16,12,50,0,na,2,20,5,0,15,0,,,,42,vegetative,8,3,,Beebalm,77,n,n,8,10,open,y,1,na,,0,0,0,0,0,na,0
+8/12/25,13:46,87,sunny,8/13/25,11:56,80,cloudy,SM,INC,2,full,middle,4,20,birdhouse,2,30,20,16,12,50,0,na,2,20,5,0,15,0,,,,87,flowering,1,0,na,Iris,55,n,powdery mildew?,7,6,control,y,1,na,,0,50-200,0,5,0,na,50-200
+8/12/25,13:46,87,sunny,8/13/25,11:56,80,cloudy,SM,INC,2,full,middle,4,20,birdhouse,2,30,20,16,12,50,0,na,2,20,5,0,15,0,,,,87,flowering,1,0,na,Iris,55,n,powdery mildew?,7,6,open,y,1,na,,0,50-200,0,5,0,na,50-200
+8/12/25,13:54,87,sunny,8/13/25,11:58,80,cloudy,SM,INC,4,full ,middle ,4,30,birdhouse,15,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,65,fruiting,7,3,"purple coneflower, blazing star, 1:50 pic",Purple coneflower,105,n,n,7,4,control,n,0,n,,0,<50,0,0,0,na,<50
+8/12/25,13:54,87,sunny,8/13/25,11:58,80,cloudy,SM,INC,4,full ,middle ,4,30,birdhouse,15,10,8,16,12,50,6,INC,2,20,5,0,15,0,,,,65,fruiting,7,3,"purple coneflower, blazing star, 1:50 pic",Purple coneflower,105,n,n,7,6,open,n,0,na,"y, ripped in half",0,<50,0,0,0,na,<50
+7/15/25,12:15,75,cloudy,7/16/25,12:50,82,cloudy,ST,INC,1,partial,middle ,2,15,feeders,5,25,10,19,17,75,0,na,2,75,0,70,5,0,,,,95,flowering,10,3,,Purple coneflower,126,n,n,10,18,control,y,1,na,,0,0,0,0,0,na,0
+7/15/25,12:15,75,cloudy,7/16/25,12:50,82,cloudy,ST,INC,1,partial,middle ,2,15,feeders,5,25,10,19,17,75,0,na,2,75,0,70,5,0,,,,95,flowering,10,3,,Purple coneflower,126,n,n,10,13,open,n,0,na,,0,0,0,0,0,na,0
+7/15/25,12:19,75,cloudy,7/16/25,12:51,82,cloudy,ST,INC,2,partial,middle ,2,15,feeders,10,20,10,19,17,75,3,"3 INC, 1 SYR",2,75,0,70,5,0,,,,91,pre-flowering,9 - see 3 photos @ 12:19,5,,Common milkweed,179,n,n,10,21,control,y,1,na,,0,0,0,0,0,na,0
+7/15/25,12:19,75,cloudy,7/16/25,12:51,82,cloudy,ST,INC,2,partial,middle ,2,15,feeders,10,20,10,19,17,75,3,"2 INC, 1 SYR",2,75,0,70,5,0,,,,91,pre-flowering,9 - see 3 photos @ 12:19,5,,Common milkweed,179,n,n,10,19,open,n,0,na,,0,0,0,0,0,na,0
+7/29/25,14:09,91,sunny,7/30/25,13:57,89,sunny,ST,INC,3,full,edge,1,10,birdhouse,15,20,12,19,17,75,0,na,2,75,0,70,5,0,,,,42,vegetative,7,1,,Phlox,123,n,n,8,11,control,y,1,na,,0,0,0,0,0,na,0
+7/29/25,14:09,91,sunny,7/30/25,13:57,89,sunny,ST,INC,3,full,edge,1,10,birdhouse,15,20,12,19,17,75,0,na,2,75,0,70,5,0,,,,42,vegetative,7,1,,Phlox,123,n,n,8,11,open,y,1,na,,0,0,0,0,0,na,0
+7/29/25,14:12,91,sunny,7/30/25,14:00,89,sunny,ST,INC,4,full,edge,10,20,birdhouse,1,25,15,19,17,75,3,INC,2,75,0,70,5,0,,,,144,post-flowering,7,2,,Phlox,136,y,n,8,9,control,y,1,na,,0,50-200,0,0,0,na,50-200
+7/29/25,14:12,91,sunny,7/30/25,14:00,89,sunny,ST,INC,4,full,edge,10,20,birdhouse,1,25,15,19,17,75,3,INC,2,75,0,70,5,0,,,,144,post-flowering,7,2,,Phlox,136,y,n,8,9,open,y,0,na,,0,50-200,0,0,0,na,50-200
+8/12/25,12:53,86,sunny,8/13/25,11:38,79,cloudy,ST,INC,1,partial,middle ,2,15,feeders,5,25,10,19,17,75,0,na,2,75,0,70,5,0,,,,94,post-flowering,9,3,"phlox, black-eyed susan, coneflower",Phlox,110,n,n,7,7,control,y,1,na,,0,<50,0,0,0,na,<50
+8/12/25,12:53,86,sunny,8/13/25,11:38,79,cloudy,ST,INC,1,partial,middle ,2,15,feeders,5,25,10,19,17,75,0,na,2,75,0,70,5,0,,,,94,post-flowering,9,3,"phlox, black-eyed susan, coneflower",Phlox,110,n,n,7,7,open,n,0,na,,0,<50,0,0,0,na,<50
+8/12/25,12:58,86,sunny,8/13/25,11:42,79,cloudy,ST,INC,3,full,edge,1,10,birdhouse,15,20,12,19,17,75,0,na,2,75,0,70,5,0,,,,33,vegetative,9,1,phlox,Phlox,116,n,n,7,6,control,y,1,na,,0,0,0,0,0,na,0
+8/12/25,12:58,86,sunny,8/13/25,11:42,79,cloudy,ST,INC,3,full,edge,1,10,birdhouse,15,20,12,19,17,75,0,na,2,75,0,70,5,0,,,,33,vegetative,9,1,phlox,Phlox,116,n,n,7,7,open,n,0,na,,0,0,0,0,0,na,0
+8/12/25,12:48,86,sunny,8/13/25,11:39,79,cloudy,ST,SYR,1,partial,middle,3,6,feeder,15,10,10,19,17,75,1,SYR,2,75,0,70,5,0,,,,90,post-flowering,7,2,"purple coneflower, coreopsis",Common milkweed,135,n,n,7,4,control,n,0,n,,0,0,0,0,0,na,0
+8/12/25,12:48,86,sunny,8/13/25,11:39,79,cloudy,ST,SYR,1,partial,middle,3,6,feeder,15,10,10,19,17,75,1,SYR,2,75,0,70,5,0,,,,90,post-flowering,7,2,"purple coneflower, coreopsis",Common milkweed,135,n,n,7,5,open,n,0,na,,0,0,0,0,0,na,0
+7/1/25,9:20,73,cloudy,7/2/25,9:31,73,sunny,TS,INC,1,partial,edge,6,na,na,30,5,15,25,17,25,2,INC,1,30,0,0,30,0,,,,62,pre-flowering,8,1,,Purple coneflower,84,n,n,10,8,control,y,2,na,,0,0,0,0,0,na,0
+7/1/25,9:20,73,cloudy,7/2/25,9:31,73,sunny,TS,INC,1,partial,edge,5,na,na,30,5,15,25,17,25,2,INC,1,30,0,0,30,0,,,,62,pre-flowering,8,1,,Purple coneflower,84,n,n,10,9,open,n,1,na,,0,0,0,0,0,na,0
+7/15/25,10:40,70,cloudy,7/16/25,11:12,80,cloudy,TS,INC,3,partial,middle ,1,25,feeder,30,10,15,25,17,25,2,INC,1,30,0,0,30,0,,,,70,vegetative,9,1,,Swamp milkweed,66,n,n,10,22,control,n,2,y,,0,<50,0,0,0,na,<50
+7/15/25,10:40,70,cloudy,7/16/25,11:12,80,cloudy,TS,INC,3,partial,middle ,1,25,feeder,30,10,15,25,17,25,2,INC,1,30,0,0,30,0,,,,70,vegetative,9,1,,Swamp milkweed,66,n,n,10,17,open,n,0,na,y,0,<50,0,0,0,na,<50
+7/15/25,10:46,70,cloudy,7/16/25,11:11,80,cloudy,TS,INC,4,partial,middle ,4,na,na,30,8,15,25,17,25,3,INC,1,30,0,0,30,0,,,,87,vegetative,11,3,,Swamp milkweed,79,n,n,10,19,control,y,1,na,,0,<50,0,0,0,na,<50
+7/15/25,10:46,70,cloudy,7/16/25,11:11,80,cloudy,TS,INC,4,partial,middle ,3,na,na,30,8,15,25,17,25,3,INC,1,30,0,0,30,0,,,,87,vegetative,11,3,,Swamp milkweed,79,n,n,10,19,open,n,0,na,y,0,<50,0,0,0,na,<50
+7/29/25,9:30,77,cloudy,7/30/25,12:45,87,sunny,TS,INC,1,partial,edge,8,na,na,30,5,15,25,17,25,2,INC,1,30,0,0,30,0,,,,87,flowering,6,3,,Swamp milkweed,101,n,n,8,6,control,n,0,n,,0,50-200,0,0,0,na,50-200
+7/29/25,9:30,77,cloudy,7/30/25,12:45,87,sunny,TS,INC,1,partial,edge,7,na,na,30,5,15,25,17,25,2,INC,1,30,0,0,30,0,,,,87,flowering,6,3,,Swamp milkweed,101,n,n,8,7,open,n,0,na,,0,50-200,0,0,0,na,50-200
+7/29/25,9:25,77,cloudy,7/30/25,12:41,87,sunny,TS,INC,5,partial,middle ,4,na,na,30,15,15,25,17,25,2,INC,1,30,0,0,30,0,,,,80,pre-flowering,9,3,,Swamp milkweed,97,n,n,8,10,control,y,1,na,,0,50-200,0,0,0,na,50-200
+7/29/25,9:25,77,cloudy,7/30/25,12:41,87,sunny,TS,INC,5,partial,middle ,3,na,na,30,15,15,25,17,25,2,INC,1,30,0,0,30,0,,,,80,pre-flowering,9,3,,Swamp milkweed,97,n,n,8,10,open,n,0,na,,0,50-200,0,0,0,na,50-200
+8/12/25,8:38,73,sunny,8/13/25,9:34,76,raining,TS,INC,2,partial,edge,6,na,na,30,3,15,25,17,25,6,INC,1,30,0,0,30,0,,,,118,fruiting,4,0,na,Swamp milkweed,122,y,n,7,7,control,y,1,na,,0,200-500,0,1,0,na,200-500
+8/12/25,8:38,73,sunny,8/13/25,9:34,76,raining,TS,INC,2,partial,edge,5,na,na,30,3,15,25,17,25,6,INC,1,30,0,0,30,0,,,,118,fruiting,4,0,na,Swamp milkweed,122,y,n,7,7,open,n,0,na,,0,200-500,0,1,0,na,200-500
+8/12/25,8:45,73,sunny,8/13/25,9:38,76,raining,TS,INC,3,partial,middle ,1,25,feeder,30,10,15,25,17,25,2,INC,1,30,0,0,30,0,,,,75,vegetative,9,0,na,Swamp milkweed,73,n,n,7,10,control,y,1,na,,0,50-200,0,0,0,na,50-200
+8/12/25,8:45,73,sunny,8/13/25,9:38,76,raining,TS,INC,3,partial,middle ,1,25,feeder,30,10,15,25,17,25,2,INC,1,30,0,0,30,0,,,,75,vegetative,9,0,na,Swamp milkweed,73,n,n,7,7,open,n,0,na,"y, predated body on next door plant ",0,50-200,0,0,0,na,50-200
+7/1/25,9:26,73,cloudy,7/2/25,9:32,73,sunny,TS ,INC,2,partial,edge,6,na,na,30,3,15,25,17,25,6,INC,1,30,0,0,30,0,,,,117,pre-flowering,6,1,,Swamp milkweed,121,n,n,10,8,control,y,0,na,,0,<50,0,0,0,na,<50
+7/1/25,9:26,73,cloudy,7/2/25,9:32,73,sunny,TS ,INC,2,partial,edge,5,na,na,30,3,15,25,17,25,6,INC,1,30,0,0,30,0,,,,117,pre-flowering,6,1,,Swamp milkweed,121,n,n,10,12,open,y,1,na,,0,<50,0,0,0,na,<50
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
